@@ -45,5 +45,5 @@ Alain Ghawi - [LinkedIn](https://www.linkedin.com/in/alain-ghawi/) - ghawialain@
 
 ## 📜License
 
-Distributed under the MIT License. See `[LICENSE](https://github.com/AlainGhawi/OptimusMap/blob/main/LICENSE)` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/AlainGhawi/OptimusMap/blob/main/LICENSE) for more information.
 
