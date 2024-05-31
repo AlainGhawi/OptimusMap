@@ -45,4 +45,5 @@ Alain Ghawi - [LinkedIn](https://www.linkedin.com/in/alain-ghawi/) - ghawialain@
 
 ## 📜License
 
+Distributed under the MIT License. See `LICENSE` for more information.
 
