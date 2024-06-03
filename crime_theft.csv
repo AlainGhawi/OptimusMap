@@ -1,0 +1,1000 @@
+offense_type_id,offense_category_id,incident_address,x,y,long,lat,district_id,precinct_id,neighborhood_id,is_crime,is_traffic,victim_count
+theft-stln-veh-const-eqpt,auto-theft,E 17TH AVE / N KEARNEY ST,3163787,1696191,-104.9175562,39.7434073,2,222,south-park-hill,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4237 N JOSEPHINE ST,3152184,1707987,-104.9585667,39.7759862,2,212,elyria-swansea,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,2300 N JASMINE ST,3163517,1699048,-104.9184513,39.751255,2,222,north-park-hill,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1830 S BANNOCK ST,3143647,1674095,-104.989616,39.6830819,3,313,overland,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,441 N ACOMA ST,3143558,1688783,-104.9896391,39.7234051,3,311,baker,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,7400 E HAMPDEN AVE,3168440,1663019,-104.9017869,39.6522603,3,324,hampden-south,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4100 BLK N INCA ST,3140923,1706992,-104.9986493,39.7734322,1,112,sunnyside,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4900 BLOCK N TELLURIDE ST,3201890,1713264,-104.781583,39.789526,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4100 E MEXICO AVE,3157840,1675062,-104.9391677,39.6855069,3,322,virginia-village,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1000 S BROADWAY ST,3144313,1679669,-104.9871379,39.6983735,3,313,washington-park-west,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4155 E JEWELL AVE,3158026,1674324,-104.938523,39.6834777,3,322,virginia-village,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,639 W 39TH AVE,3142100,1706041,-104.9944809,39.7708036,1,112,globeville,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,2120 W ARKANSAS AVE,3137121,1676651,-105.012754,39.6901971,4,422,ruby-hill,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,82 N UINTA WAY,3171594,1688506,-104.8899781,39.72217,3,321,lowry-field,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,777 N BANNOCK ST,3143312,1690483,-104.9904797,39.7280757,1,123,lincoln-park,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,18025 E 61ST AVE,3203428,1719957,-104.7759205,39.8078653,5,522,dia,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,901 W 14TH AVE,3140838,1694464,-104.9991974,39.739042,1,123,lincoln-park,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,E 37TH AVE / N HARRISON ST,3156940,1705140,-104.9417087,39.7680917,2,212,clayton,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,9300 E 46TH PL,3174222,1709814,-104.8801189,39.7806148,5,511,central-park,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1500 BLOCK W 8TH AVE,3139700,1690711,-105.0033168,39.7287565,1,123,lincoln-park,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,20704 E 38TH PL,3211372,1706100,-104.7480542,39.7696495,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,2 N KALAMATH ST,3140701,1686376,-104.9998428,39.716841,3,311,baker,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4050 E 13TH AVE,3157457,1693626,-104.940122,39.7364752,2,222,hale,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1445 16TH ST,3141035,1698589,-104.9984159,39.7503629,6,612,union-station,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,12200 BLK E 51ST AVE,3184107,1712970,-104.8448683,39.789088,5,521,montbello,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1100 BLK N YOSEMITE ST,3172960,1692483,-104.8850263,39.7330623,2,223,east-colfax,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,E ELMENDORF DR / N ARGONNE ST,3205182,1714411,-104.7698362,39.7926026,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4460 N PEORIA ST,3183893,1708578,-104.8457423,39.7770357,5,521,montbello,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1776 N BROADWAY ST,3144243,1696467,-104.9870496,39.7444885,6,621,north-capitol-hill,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,5660 N TOWER RD,3205213,1717029,-104.769651,39.7997885,5,522,dia,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1430 S FEDERAL BLVD,3133798,1676688,-105.0245611,39.690347,4,422,ruby-hill,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4150 N JASON ST,3140784,1707116,-104.9991413,39.7737747,1,112,sunnyside,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,5100 BLOCK N EATON ST,3123910,1712567,-105.0590778,39.7889786,1,111,regis,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,5660 E ATLANTIC PL,3162849,1673512,-104.9214054,39.6811655,3,322,virginia-village,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,N ONEIDA CT / E LOWRY BLVD,3166757,1686369,-104.9072228,39.7163915,3,321,lowry-field,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4650 N ALCOTT BEACH ALY,3135548,1709759,-105.0177189,39.7811079,1,111,sunnyside,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,18799 E 65TH AVE,3204813,1722452,-104.7709197,39.8146838,5,522,dia,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,100 BLK S FOREST ST,3161304,1685623,-104.926623,39.7144396,3,321,hilltop,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,4801 E 46TH AVE,3160079,1709799,-104.9304385,39.7808278,2,221,northeast-park-hill,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,633 CURTIS ST,3138511,1695180,-105.0074579,39.7410425,1,123,auraria,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1820 W 13TH AVE,3137373,1693522,-105.0115362,39.7365079,1,123,lincoln-park,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,1550 S WOLFF ST,3127476,1676105,-105.0470357,39.6888352,4,421,mar-lee,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,3150 W JEWELL AVE,3133448,1673032,-105.0258725,39.6803155,4,421,harvey-park,1,0,1
+theft-stln-veh-const-eqpt,auto-theft,5173 N BEELER ST,3173813,1713935,-104.8814742,39.7919351,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178120,1682384,-104.8669303,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK S MAGNOLIA ST,3165705,1668739,-104.9113684,39.6680122,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4340 N JOSEPHINE ST,3152354,1708430,-104.9579525,39.7771995,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLK N ADAMS ST,3155040,1704645,-104.9484782,39.7667647,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W FLORIDA AVE / S TEJON ST,3137401,1676397,-105.0117639,39.6894957,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5100 BLK W MISSISSIPPI AVE,3126124,1679035,-105.0517883,39.6968972,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1040 S KEARNEY ST,3163978,1679544,-104.9172568,39.6977049,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6300 BLK E EVANS AVE,3164429,1672476,-104.9158156,39.6782937,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11795 E 45TH AVE,3181899,1709165,-104.8528215,39.7786863,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,790 N FILLMORE ST,3153972,1690859,-104.9525728,39.7289376,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1295 S HURON ST,3141535,1677804,-104.9970469,39.6932963,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3100 BLOCK W OHIO AVE,3133194,1680986,-105.0266277,39.7021547,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4100 BLK N HALIFAX ST,3209456,1707350,-104.7548335,39.7731242,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 W COLFAX AVE,3136028,1694571,-105.0162988,39.7394073,1,122,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,12200 BLK E 37TH AVE,3184003,1705346,-104.8454338,39.7681613,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK N CLAYTON ST,3153043,1690854,-104.9558758,39.7289392,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6804 E 48TH AVE,3165661,1710780,-104.9105557,39.7834231,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK N ELM ST,3160417,1692210,-104.9296289,39.7325375,2,222,hale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2505 N EUDORA ST,3160031,1699689,-104.9308347,39.7530753,2,222,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,I70 HWYEB / N BRIGHTON BLVD,3149758,1709392,-104.9671683,39.7798825,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10251 E 51ST AVE,3176945,1713720,-104.8703344,39.7912858,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4500 BLK N BRYANT ST,3135192,1708620,-105.019007,39.7779863,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 36TH AVE / N UINTA ST,3170775,1704950,-104.8924986,39.7673265,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5790 W DARTMOUTH AVE,3124745,1663969,-105.05695,39.6555558,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4353 E COLFAX AVE,3158661,1695074,-104.935809,39.7404298,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1900 BLK S OGDEN ST,3147469,1673219,-104.9760545,39.6806174,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2707 S WOLFF ST,3127211,1668352,-105.0481143,39.6675549,4,423,harvey-park-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2645 W ALAMEDA AVE,3135384,1684412,-105.0187801,39.7115282,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLK W 46TH AVE,3131444,1709342,-105.0323283,39.7800221,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1350 S CHEROKEE ST,3143436,1677277,-104.9903023,39.6918205,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,220 N ACOMA ST,3143755,1687481,-104.9889648,39.7198278,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1830 S BANNOCK ST,3143605,1674157,-104.989764,39.6832528,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,641 S JASON ST,3140856,1682052,-104.9993766,39.7049683,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8801 E HAMPDEN AVE,3172781,1663736,-104.8863532,39.6541492,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,141 S ELATI ST,3142395,1685369,-104.9938412,39.7140508,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7520 W AMHERST AVE,3118178,1667461,-105.080216,39.6652279,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1200 BLK S SENECA WAY,3137883,1677906,-105.0100223,39.6936311,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK N GROVE ST,3133303,1692096,-105.0260343,39.7326524,1,122,villa-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3700 BLK N GARFIELD ST,3156383,1705177,-104.9436893,39.7682027,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK S KNOX CT,3131764,1678843,-105.0317491,39.696292,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1155 E 9TH AVE,3148086,1691541,-104.9734852,39.7309054,6,623,capitol-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1800 BLK S HUMBOLDT ST,3149107,1673986,-104.9702191,39.6826969,3,313,university,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1700 BLK N ULSTER ST,3170304,1696880,-104.8943654,39.7451818,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLOCK N VALLEJO ST/ N WYANDOT ST ALLEY,3137057,1704628,-105.0124479,39.7670004,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,14135 E 42ND AVE,3185721,1708055,-104.8392524,39.7755637,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK S LEYDEN ST,3164580,1669466,-104.9153479,39.6700279,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4154 N XAVIER ST,3126646,1707097,-105.0494387,39.7739258,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1450 W EVANS AVE,3139258,1672236,-105.005246,39.6780452,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8700 E 21ST AVE,3172391,1698270,-104.8869105,39.7489591,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3855 N LIMA ST,3180817,1706451,-104.8567394,39.7712571,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2905 E BATES AVE,3153926,1667252,-104.9532415,39.6641321,3,314,wellshire,1,0,1
+theft-stln-vehicle-trailer,auto-theft,14900 BLOCK E 53RD AVE,3193135,1713530,-104.8127289,39.7904421,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5681 W BATES AVE,3125123,1666371,-105.0555657,39.6621448,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2200 S VALLEY HWY,3160096,1671718,-104.9312263,39.6762883,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5040 E 41ST AVE,3160481,1706884,-104.9290734,39.7728188,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3663 S SHERIDAN BLVD,3125084,1662240,-105.055776,39.6508047,4,423,fort-logan,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7990 W CRESTLINE AVE,3116762,1650077,-105.0855274,39.6175216,4,423,marston,1,0,1
+theft-stln-vehicle-trailer,auto-theft,14400 BLK E MAXWELL PL,3191552,1714173,-104.8183446,39.79224,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3680 E 52ND AVE,3156074,1713257,-104.9446128,39.7903885,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2105 N FEDERAL BLVD,3133397,1698106,-105.0255885,39.7491496,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,9310 E GIRARD AVE,3174680,1663589,-104.8796125,39.6537102,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,800 BLOCK S ZUNI ST,3136275,1681253,-105.015673,39.7028431,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1200 BLOCK N JOSEPHINE ST,3152328,1693172,-104.9583687,39.7353143,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,400 BLOCK N NEWPORT ST,3166121,1688425,-104.9094361,39.722047,3,321,hilltop,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4600 S ULSTER ST,3170131,1655596,-104.8959568,39.6318516,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,77 S OGDEN ST,3147395,1685803,-104.9760596,39.7151644,3,311,speer,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4200 BLK E BRUCE RANDOLPH AVE,3158028,1703929,-104.9378651,39.7647489,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3000 BLK N HUMBOLDT ST,3149003,1702117,-104.9700055,39.7599237,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4955 N PEORIA ST,3183326,1712243,-104.8476659,39.7871077,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1550 W EVANS AVE,3139078,1671895,-105.0058921,39.6771117,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLK S OLEANDER CT,3166806,1663651,-104.9075753,39.6540247,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLOCK W 39TH AVE,3139970,1705902,-105.0020609,39.7704544,1,112,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4500 BLK E ARIZONA AVE,3158992,1678419,-104.9350004,39.694703,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4380 N PEORIA ST,3183727,1708039,-104.8463467,39.7755594,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLK N VALLEJO ST,3137033,1704189,-105.0125417,39.7657956,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,910 N GALAPAGO ST,3141697,1691429,-104.9962028,39.7306974,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3300 BLK E 42ND AVE,3155008,1707742,-104.9485252,39.775267,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1800 BLK S MILWAUKEE ST,3154279,1673941,-104.9518443,39.6824891,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLK N MADISON ST,3155758,1704192,-104.945934,39.7655092,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLK N STEELE ST,3154533,1705074,-104.9502725,39.7679508,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,601 W 11TH AVE,3142004,1692661,-104.9950869,39.7340747,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2105 N FEDERAL BLVD,3133397,1698106,-105.0255885,39.7491496,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3550 S HARLAN ST,3123839,1662749,-105.0601887,39.6522186,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLOCK N WYANDOT ST,3136677,1687928,-105.0141174,39.7211615,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 33RD AVE / N POPLAR ST,3167368,1703656,-104.9046482,39.7638362,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,870 E 50TH AVE,3147395,1712183,-104.9755182,39.7875819,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1796 S ALCOTT ST,3136096,1674470,-105.0164374,39.6842248,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,255 N WYANDOT ST,3136604,1687874,-105.0143779,39.7210143,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLK S NIAGARA ST,3166165,1684116,-104.9093792,39.7102172,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 BLK S FOREST ST,3161244,1683185,-104.9268909,39.7077479,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2645 W ALAMEDA AVE,3135384,1684412,-105.0187801,39.7115282,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLK N REVERE ST,3184842,1706235,-104.8424264,39.7705851,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1339 N OSAGE ST,3138983,1693959,-105.0058032,39.7376836,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7000 BLK E SANDOWN RD,3166690,1707041,-104.9069813,39.7731406,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2401 W 5TH AVE,3136022,1688939,-105.0164267,39.7239465,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLK W LOUISIANA AVE,3130140,1677614,-105.0375425,39.692941,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK E 52ND AVE,3153498,1713960,-104.9537642,39.7923612,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,N AIRPORT WAY / E 49TH AVE,3198255,1711693,-104.7945609,39.7852917,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3300 BLOCK E CORNELL AVE,3155416,1666706,-104.9479608,39.6626084,3,314,wellshire,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3524 W 23RD AVE,3131084,1698781,-105.033802,39.7510355,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,801 N LAFAYETTE ST,3148803,1690929,-104.9709486,39.7292139,6,622,cheesman-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6300 E HAMPDEN AVE,3164315,1662944,-104.9164381,39.6521281,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,510 E 51ST AVE,3145882,1712168,-104.9809022,39.7875646,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4100 BLK N JACKSON ST,3156499,1707563,-104.9432246,39.7747506,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1312 N JOSEPHINE ST,3152350,1693832,-104.9582764,39.7371257,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,130 N RAMPART WAY,3169226,1687920,-104.8984099,39.7206047,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5000 BLK N ADAMS ST,3154816,1712503,-104.9491055,39.7883397,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLK N QUEBEC ST,3167537,1705971,-104.9039931,39.7701881,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1900 BLK N FOREST ST,3161226,1697061,-104.9266437,39.7458404,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5240 N COOK ST,3155341,1713732,-104.9472108,39.7917047,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3830 E JEWELL AVE,3156814,1673768,-104.9428414,39.6819719,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6700 E SMITH RD,3165655,1706737,-104.9106703,39.7723246,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3000 BLK N ASH ST,3157965,1702317,-104.9381246,39.7603248,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2555 S SANTA FE DR,3141934,1669453,-104.9957938,39.6703648,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLK N HIGH ST,3150376,1705080,-104.9650599,39.7680354,2,211,cole,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5500 BLK N NEPAL ST,3213226,1715970,-104.7411657,39.7967012,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 S SANTA FE DR,3142345,1682796,-104.9940698,39.7069881,3,312,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5885 E STAPLETON N DR,3163327,1709344,-104.9188928,39.7795223,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8150 E COLFAX AVE,3170644,1694900,-104.8932034,39.7397401,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLOCK N GAYLORD ST,3151621,1704742,-104.9606382,39.7670874,2,211,cole,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK S JULIAN ST,3131888,1678394,-105.0313167,39.6950576,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK N LIMA ST,3181006,1700971,-104.8562052,39.7562101,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1400 BLOCK S LOGAN ST,3145626,1677010,-104.9825257,39.6910535,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2300 S ASH ST,3158076,1671116,-104.9384158,39.6746702,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1728 W 39TH AVE,3138556,1705855,-105.0070919,39.7703465,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2835 W 32ND AVE,3134185,1703047,-105.0226938,39.7627022,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1500 BLK N QUEBEC ST,3167857,1695426,-104.9031012,39.7412348,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S RARITAN ST,3138330,1682174,-105.0083518,39.7053411,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3300 BLK W 29TH AVE,3132104,1701610,-105.0301224,39.7587871,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2450 W 2ND AVE,3136119,1687390,-105.0161112,39.7196927,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3899 N JACKSON ST,3156557,1706123,-104.9430497,39.7707967,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W 16TH AVE / N HOOKER ST,3132624,1695764,-105.0283808,39.7427315,1,121,west-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3000 BLK N OLIVE ST,3166822,1702392,-104.9066197,39.7603761,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,150 N SHERIDAN BLVD,3125863,1687194,-105.052573,39.719299,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK N HARRISON ST,3156903,1691597,-104.9421362,39.7309146,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5105 W VIRGINIA AVE,3126042,1683072,-105.052009,39.7079808,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK N ZUNI ST,3136231,1701209,-105.015451,39.7576268,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLOCK N LIPAN ST,3140211,1689640,-105.001521,39.7258087,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4850 N MOLINE ST,3181500,1711518,-104.8541815,39.7851533,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1030 W ELLSWORTH AVE,3140310,1686236,-105.0012355,39.7164625,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,N PEORIA ST / I70 HWYWB,3183536,1707544,-104.8470388,39.7742043,5,521,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3978 N ULSTER ST,3170390,1706760,-104.8938252,39.7723022,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1251 S HURON ST,3141538,1678074,-104.997031,39.6940375,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,360 N HOOKER ST,3132740,1688336,-105.0281055,39.7223385,4,411,barnum,1,0,1
+theft-stln-vehicle-trailer,auto-theft,830 N LEYDEN ST,3164591,1691244,-104.9148105,39.7298128,2,222,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4700 N FLORENCE ST,3176703,1710619,-104.8712719,39.7827779,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 W COLFAX AVE,3136028,1694571,-105.0162988,39.7394073,1,122,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,621 N KALAMATH ST,3140482,1689808,-105.0005543,39.7262658,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5400 BLK N DANUBE ST,3207048,1714856,-104.7631833,39.7937828,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4000 N DAHLIA ST,3159992,1706876,-104.9308132,39.7728053,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,14175 E 42ND AVE,3186465,1707619,-104.8366168,39.7743519,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3239 S PARKER RD,3182338,1665229,-104.852374,39.6580657,3,323,kennedy,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S OGDEN ST,3147417,1681731,-104.9760649,39.7039856,3,312,washington-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4678 N CORNISH WAY,3188286,1709299,-104.8300945,39.778927,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,800 S KRAMERIA ST,3164299,1681048,-104.9160817,39.701828,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6792 N TOWER RD,3204654,1724265,-104.7714339,39.8196641,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2606 S SHERIDAN BLVD,3125912,1670166,-105.0526969,39.6725525,4,421,harvey-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1089 N BANNOCK ST,3143251,1692306,-104.9906602,39.7330811,6,611,civic-center,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6140 E EVANS AVE,3163969,1672507,-104.9174491,39.6783869,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3200 BLK S LAMAR ST,3121653,1664818,-105.0679171,39.6579274,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4850 N VASQUEZ BLVD,3155716,1711109,-104.9459333,39.784498,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7600 BLK E ELLSWORTH AVE,3168984,1686394,-104.8993061,39.71642,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 W 4TH AVE,3135913,1687982,-105.0168323,39.7213209,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 53RD AVE / N PEORIA ST,3183461,1714341,-104.8471319,39.7928643,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S GRANT ST,3145281,1681799,-104.9836549,39.7042058,3,312,washington-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11185 E 51ST AVE,3180556,1713551,-104.8574892,39.7907525,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1895 W DARTMOUTH AVE,3138197,1666241,-105.0091305,39.6616032,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1360 W CEDAR AVE,3139153,1684939,-105.0053733,39.7129194,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5035 E 39TH AVE,3160565,1706398,-104.9287855,39.7714833,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,14600 BLK E ELK PL,3191084,1710102,-104.8201184,39.7810743,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1610 S KING ST,3131387,1675459,-105.0331506,39.6870075,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2700 S FRANKLIN ST,3149630,1668448,-104.968476,39.6674854,3,313,university,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 W 48TH AVE,3143087,1710576,-104.9908793,39.7832377,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6900 BLOCK E JEWELL AVE,3166813,1674002,-104.9073106,39.6824405,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4225 N PICADILLY RD,3215117,1708372,-104.7346641,39.7758005,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,888 S ONEIDA ST,3167055,1680792,-104.9062931,39.7010762,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3893 N STEELE ST,3153737,1705991,-104.9530844,39.7704813,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3930 W 38TH AVE,3129549,1705428,-105.0391412,39.7693041,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,924 S QUITMAN ST,3129134,1680113,-105.0410724,39.6998153,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1800 BLK S HUMBOLDT ST,3149288,1673832,-104.9695792,39.6822712,3,313,university,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1633 N PEARL ST,3146227,1695681,-104.9800104,39.7422998,6,621,north-capitol-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7970 E NORTHFIELD BLVD,3170061,1709927,-104.8949206,39.7810021,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,19100 BLK E 39TH PL,3206891,1706557,-104.7639813,39.7710048,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5157 N EMERSON ST,3147163,1713174,-104.9763234,39.790306,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK E DARTMOUTH AVE,3152909,1665945,-104.9568816,39.6605608,3,314,wellshire,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2121 DELGANY ST,3141330,1701365,-104.9973121,39.757979,6,612,five-points,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5130 N BRIGHTON BLVD,3151314,1712829,-104.9615598,39.7892923,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4300 BLK N KALAMATH ST,3140281,1707835,-105.0009167,39.775756,1,112,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4600 N YORK ST,3151989,1709508,-104.9592282,39.7801647,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5001 PACKING HOUSE RD,3148521,1711628,-104.9715231,39.7860404,1,112,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 BLK W LOUISIANA AVE,3143375,1677763,-104.9905093,39.6931556,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2985 N CHERRY ST,3159062,1702163,-104.9342261,39.7598834,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3423 N OSCEOLA ST,3129809,1703880,-105.0382442,39.765051,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W 30TH AVE / N STUART ST,3128527,1702150,-105.0428355,39.7603196,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,S YOSEMITE ST / E NASSAU AVE,3173169,1659755,-104.8850709,39.6432131,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 BLK S GARFIELD ST,3156528,1669708,-104.9439458,39.670831,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,I225 HWYSB / I70 HWYEB,3187251,1707084,-104.8338346,39.7728675,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1475 S COLORADO BLVD,3157068,1676977,-104.9418689,39.690777,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 22ND AVE / N JASMINE ST,3163436,1698326,-104.9187558,39.7492744,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLK N JASMINE ST,3163517,1693831,-104.9185701,39.7369335,2,222,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2720 W 8TH AVE,3134907,1690862,-105.0203545,39.7292417,1,122,sun-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6880 E EVANS AVE,3166453,1672393,-104.9086268,39.6780299,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4343 N HOLLY ST,3162186,1708529,-104.9229707,39.777305,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3000 E 1ST AVE,3153964,1686702,-104.9526903,39.717526,3,311,cherry-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLK N PONTIAC ST,3167122,1704766,-104.9054974,39.7668877,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8400 PENA BLVD,3231977,1735292,-104.6738123,39.8492917,7,759,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 4TH AVE / N DEXTER ST,3159570,1688789,-104.9327163,39.7231608,3,321,hilltop,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4200 BLK N ONEIDA ST,3166001,1707748,-104.9094161,39.7750938,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10200 E GIRARD AVE,3177966,1664371,-104.8679231,39.6557948,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,EB I70 TO CENTRAL PARK RAMP / N CENTRAL PARK BLVD,3173462,1708197,-104.8828619,39.7761902,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1944 S QUEBEC ST,3168021,1673705,-104.9030256,39.6816035,3,322,indian-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5050 N FOX ST,3141976,1712449,-104.9947952,39.7883964,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,254 S PENNSYLVANIA ST,3145948,1684632,-104.9812269,39.7119726,3,311,speer,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8330 E QUINCY AVE,3171407,1657798,-104.8913742,39.6378732,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1280 W 47TH AVE,3139677,1709918,-105.003025,39.7814833,1,112,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3200 BLK W 31ST AVE,3132451,1702479,-105.0288722,39.7611678,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,14700 BLK E 43RD AVE,3190892,1707169,-104.8208795,39.7730268,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2300 BLK S LINDEN CT,3164695,1671154,-104.9149008,39.6746598,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S RARITAN ST,3138330,1682173,-105.0083519,39.7053384,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,906 N PERRY ST,3129581,1691444,-105.0392796,39.7309151,1,122,villa-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4395 N ONEIDA ST,3166216,1708676,-104.9086297,39.7776374,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,114 N FEDERAL BLVD,3133741,1687066,-105.0245706,39.7188378,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W 2ND AVE / N DELAWARE ST,3142673,1687300,-104.9928147,39.7193475,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,140 N SHERIDAN BLVD,3125855,1687041,-105.0526041,39.7188791,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,255 N KEARNEY ST,3163854,1687940,-104.9175061,39.7207557,3,321,hilltop,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK E 3RD AVE,3148034,1687683,-104.9737495,39.7203152,3,311,speer,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S STUART ST,3128433,1682222,-105.043526,39.7056147,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 BLK W ALAMEDA AVE,3142639,1684301,-104.992995,39.7111152,3,312,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4250 N CARSON ST,3188970,1707523,-104.8277077,39.7740379,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1900 BLK S LIPAN ST,3140066,1673242,-105.0023558,39.6807948,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLK N BELLAIRE ST,3158352,1693808,-104.9369357,39.7369597,2,222,hale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2400 BLK S CHEROKEE ST,3143336,1670295,-104.9907967,39.6726548,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2720 E 8TH AVE,3153292,1690820,-104.9549912,39.7288418,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6405 E STAPLETON N DR,3164589,1709247,-104.9144051,39.7792338,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,81 N PONTIAC ST,3166977,1686969,-104.9064269,39.7180347,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4900 S SYRACUSE ST,3168520,1653688,-104.9017211,39.6266428,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK N NEWPORT ST,3165959,1701428,-104.9097116,39.7577452,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2645 S SANTA FE DR,3141742,1668660,-104.9964915,39.6681907,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2650 E 40TH AVE,3153074,1706534,-104.9554314,39.7719829,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5253 W 48TH AVE,3125302,1710828,-105.054155,39.7841861,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,18400 E ELMENDORF DR,3204042,1714359,-104.7738944,39.7924849,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1440 S LIPAN ST,3140314,1676751,-105.0014063,39.6904241,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1101 W 36TH AVE,3140624,1704710,-104.9997577,39.7671723,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1390 N MAGNOLIA ST,3165549,1694432,-104.9113311,39.7385474,2,223,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4500 BLOCK N GENEVA ST,3177616,1709542,-104.8680501,39.779804,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,211 N ADAMS ST,3155018,1687547,-104.9489254,39.7198282,3,311,cherry-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1600 BLK S STUART ST,3128646,1675816,-105.0428835,39.6880258,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2200 BLK N HOOKER ST,3132499,1698739,-105.0287704,39.7509001,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLOCK N XAVIER ST,3126588,1705529,-105.0496727,39.7696221,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6475 E HAPPY CANYON RD,3164492,1658919,-104.9159014,39.6410753,3,324,southmoor-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 BLOCK N GENEVA ST,3177536,1711365,-104.8682897,39.7848098,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1900 BLK E 28TH AVE,3150700,1700987,-104.9639932,39.7567943,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,510 E 51ST AVE,3145882,1712168,-104.9809022,39.7875646,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLK W ALICE PL,3130048,1709828,-105.0372863,39.7813758,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4400 BLK N ABILENE ST,3186265,1709263,-104.8372857,39.7788689,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11611 E 51ST AVE,3181501,1713502,-104.8541278,39.7905996,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1155 N ASH ST,3157796,1692589,-104.9389394,39.7336227,2,222,hale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,15470 E ANDREWS DR,3194474,1707438,-104.8081293,39.7736911,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3390 W 33RD AVE,3131561,1703406,-105.0320208,39.7637252,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4100 BLK N WOLFF ST,3126971,1707350,-105.048278,39.7746158,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4700 BLK N LOWELL BLVD,3130742,1710360,-105.0348074,39.7828265,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,18605 E GVR BLVD,3205114,1711659,-104.7701569,39.7850496,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,13100 E ALBROOK DR,3185247,1709002,-104.8409142,39.7781728,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK W ELLSWORTH AVE,3134095,1686167,-105.023329,39.7163647,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7660 E JEWELL AVE,3169027,1673711,-104.8994512,39.6816017,3,322,indian-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,190 N MONACO ST,3165296,1687616,-104.9123875,39.7198408,3,321,hilltop,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLK S COLORADO BLVD,3157538,1663853,-104.940486,39.6547406,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2155 S SHERIDAN BLVD,3124921,1672133,-105.0561832,39.6779657,4,421,harvey-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2867 N SYRACUSE ST,3168930,1701129,-104.8991516,39.756871,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1600 BLK E 30TH AVE,3149670,1702055,-104.9676344,39.7597427,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4900 BLK E MLK BLVD,3160180,1702833,-104.9302346,39.7617035,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,958 N LOWELL BLVD,3130836,1691913,-105.0348091,39.732185,1,122,villa-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3730 N DECATUR ST,3134394,1705250,-105.0219092,39.7687467,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5000 BLK N NEWTON ST,3130227,1712089,-105.0366084,39.7875801,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5000 BLK N HARLAN ST,3122977,1712027,-105.062407,39.7875086,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,CURTIS ST / 30TH ST,3146783,1702232,-104.9778994,39.7602746,2,211,five-points,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6804 E 48TH AVE,3165661,1710780,-104.9105557,39.7834231,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E STAPLETON N DR / N FOREST ST,3161050,1709349,-104.9269939,39.7795758,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3000 BLK E 5TH AVE,3154340,1689168,-104.9513008,39.7242894,3,311,cherry-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5280 E 46TH AVE,3161316,1709532,-104.9260434,39.7800735,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2896 N GENEVA ST,3177550,1701678,-104.8684794,39.7582176,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK N CLARKSON ST,3146844,1691716,-104.9778974,39.7314054,6,623,capitol-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2322 S FEDERAL BLVD,3133886,1670805,-105.0243578,39.6741955,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1104 S SHERIDAN BLVD,3125852,1678879,-105.0527577,39.6964726,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2300 BLK S MADISON ST,3155705,1670835,-104.946845,39.6739387,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,888 S ONEIDA ST,3167055,1680792,-104.9062931,39.7010762,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 W 48TH AVE,3143087,1710576,-104.9908793,39.7832377,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7700 BLK E QUINCY AVE,3169355,1658597,-104.8986414,39.6401042,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2645 W ALAMEDA AVE,3135384,1684412,-105.0187801,39.7115282,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLK N MEADE ST,3130635,1694109,-105.0354838,39.7382163,1,122,west-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1530 N ADAMS ST,3155085,1695175,-104.9485226,39.7407673,2,213,city-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2400 BLK N RACE ST,3150960,1699563,-104.9630984,39.752881,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1030 W ELLSWORTH AVE,3140310,1686236,-105.0012355,39.7164625,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLK W HAMILTON PL,3131358,1663588,-105.0334703,39.6544189,4,423,harvey-park-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,9000 BLOCK E NASSAU AVE,3173450,1659692,-104.8840746,39.643035,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,326 S HUMBOLDT ST,3149236,1684123,-104.9695505,39.7105231,3,312,washington-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3200 BLK N STUART ST,3128425,1703410,-105.0431757,39.76378,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 W COLFAX AVE,3136028,1694571,-105.0162988,39.7394073,1,122,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10700 E DARTMOUTH AVE,3179637,1665333,-104.8619644,39.6584037,3,323,kennedy,1,0,1
+theft-stln-vehicle-trailer,auto-theft,00 BLK N JULIAN ST,3131765,1686391,-105.0316073,39.7170129,4,411,barnum,1,0,1
+theft-stln-vehicle-trailer,auto-theft,100 BLOCK W ASBURY AVE,3143801,1673066,-104.9890894,39.6802547,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8900 BLK E 48TH AVE,3173101,1710760,-104.8840844,39.7832327,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3300 S TAMARAC DR,3169783,1664316,-104.8969868,39.6557965,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 W 1ST AVE,3140989,1686699,-104.9988128,39.7177233,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1400 BLOCK S IRVING ST,3132436,1676947,-105.029396,39.6910775,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4465 N LOWELL BLVD,3130710,1708515,-105.0349549,39.7777622,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,650 S LIPAN ST,3140308,1681875,-105.0013277,39.7044907,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2755 S LOCUST ST,3164354,1668209,-104.9161795,39.6665811,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2727 W 4TH AVE,3134715,1688407,-105.0210831,39.722505,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK N DAHLIA ST,3159865,1700386,-104.9314096,39.7549915,2,222,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5695 N HANOVER ST,3177902,1716860,-104.8668511,39.7998872,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 9TH AVE / N LEYDEN ST,3164523,1691492,-104.9150466,39.7304948,2,222,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 E COLFAX AVE,3159957,1694890,-104.9312047,39.7399025,2,222,hale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4100 BLK N ONEIDA ST,3166152,1707459,-104.9088856,39.7742977,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLOCK S ST PAUL ST,3154521,1677698,-104.9509038,39.6927989,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLK S KNOX CT,3131603,1672853,-105.0324308,39.6798503,4,421,harvey-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5305 E COLFAX AVE,3161580,1695109,-104.9254287,39.7404757,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 BLK N ELM ST,3160356,1699691,-104.9296788,39.7530752,2,222,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,570 W 44TH AVE,3142093,1708031,-104.9944664,39.7762666,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2555 S SANTA FE DR,3141934,1669453,-104.9957938,39.6703648,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2322 S FEDERAL BLVD,3133886,1670805,-105.0243578,39.6741955,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLOCK N PEARL ST,3146326,1691640,-104.9797406,39.731205,6,623,capitol-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1250 N ZUNI ST,3136287,1693358,-105.0154008,39.7360736,1,122,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4900 BLK E CHERRY CREEK S DR,3160412,1681179,-104.9298928,39.7022554,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4570 N IRONTON ST,3179112,1709616,-104.8627258,39.7799784,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 W COLFAX AVE,3136028,1694571,-105.0162988,39.7394073,1,122,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,730 S JASON ST,3141273,1681522,-104.9979049,39.7035071,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3575 RINGSBY CT,3146133,1707299,-104.9801082,39.7741945,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLK E 41ST AVE,3156189,1707142,-104.9443366,39.7736001,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,DELGANY ST / 28TH ST,3143704,1703588,-104.9888239,39.7640451,6,612,five-points,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK N XENIA ST,3172630,1693164,-104.8861833,39.7349379,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLOCK S DAYTON WAY,3176356,1668782,-104.8735331,39.6679347,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1340 W BAYAUD AVE,3139317,1685490,-105.0047797,39.7144295,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1000 BLK S ELMIRA ST,3176532,1679384,-104.8726478,39.6970361,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK N CLERMONT ST,3158936,1701137,-104.934697,39.757069,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8500 BLK E MONTVIEW BLVD,3171946,1697631,-104.8885084,39.7472132,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1751 S WASHINGTON ST,3146489,1674972,-104.9795006,39.6854452,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLOCK W 4TH AVE,3141583,1688427,-104.9966672,39.722458,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLK N VALENTIA ST,3171159,1694220,-104.8913884,39.737864,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10255 E 40TH AVE,3177428,1707460,-104.8687705,39.7740922,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5400 BLK E TENNESSEE AVE,3162363,1680230,-104.9229805,39.6996164,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4740 N FLORENCE ST,3176689,1711191,-104.8713077,39.7843483,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7007 E SANDOWN RD,3166763,1707136,-104.9067194,39.7734001,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3550 S HARLAN ST,3123839,1662748,-105.0601887,39.6522159,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3200 BLK N RALEIGH ST,3128944,1703263,-105.0413322,39.7633692,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,171 N HAZEL CT,3132795,1687282,-105.0279295,39.7194443,4,411,barnum,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 BLK S PECOS ST,3138959,1684748,-105.0060666,39.7123979,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7003 E 47TH AVE,3166747,1710566,-104.9066966,39.7828162,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1200 BLK S JASON ST,3140978,1677781,-104.9990267,39.6932416,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,18250 E 51ST AVE,3203045,1712899,-104.7774835,39.7884989,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLOCK E MISSISSIPPI AVE,3147276,1679020,-104.9766215,39.6965455,3,312,washington-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,19000 BLK E 54TH PL,3206290,1715096,-104.7658738,39.7944584,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1671 N POPLAR ST,3167319,1696076,-104.9049991,39.7430288,2,223,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1200 BLK W CEDAR AVE,3139816,1684892,-105.0030176,39.7127804,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,N JASON ST / W 42ND AVE,3140712,1707283,-104.9993942,39.7742342,1,112,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 BLK N HOOKER ST,3132471,1700059,-105.0288457,39.7545242,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5180 E SMITH RD,3160898,1707710,-104.9275715,39.7750791,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLK N FOREST ST,3161165,1705771,-104.9266651,39.7697517,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2100 BLK S PLATTE RIVER DR,3141613,1672242,-104.9968792,39.6780262,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4695 S MONACO ST,3165538,1654188,-104.912296,39.6280689,3,324,southmoor-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 39TH AVE / N PONTIAC ST,3167083,1706297,-104.9056005,39.7710912,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3870 N QUEBEC ST,3168333,1706036,-104.9011599,39.7703522,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1450 W EVANS AVE,3139258,1672236,-105.005246,39.6780452,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5300 E FLORIDA AVE,3161747,1676284,-104.9252584,39.6887945,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 BLOCK W ELLSWORTH AVE,3127018,1686192,-105.0484849,39.7165326,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7977 W TUFTS AVE,3116568,1655944,-105.0861212,39.6336307,4,423,marston,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4955 N PEORIA ST,3183326,1712243,-104.8476659,39.7871077,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 S UNIVERSITY BLVD,3152329,1684704,-104.9585446,39.712068,3,311,belcaro,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3905 N NIAGARA ST,3165539,1706369,-104.9110915,39.7713165,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,800 BLK S QUIVAS ST,3138777,1680382,-105.0067977,39.700415,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLOCK E TENNESSEE AVE,3150891,1679691,-104.963761,39.6983297,3,312,washington-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 64TH AVE / N DUNKIRK ST,3207140,1721832,-104.7626544,39.8129303,U,999,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2755 S LOCUST ST,3164354,1668209,-104.9161795,39.6665811,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4785 N ELATI ST,3142364,1710518,-104.9934529,39.7830896,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4900 BLOCK N DALLAS ST,3175314,1711966,-104.8761811,39.7865018,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1900 BLK S SHERMAN ST,3144982,1673555,-104.9848837,39.6815788,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N GENEVA ST,3177536,1711365,-104.8682897,39.7848098,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1104 S SHERIDAN BLVD,3125852,1678879,-105.0527577,39.6964726,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2905 W ALAMEDA AVE,3133859,1684395,-105.0242009,39.7115036,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLOCK N ZENOBIA ST,3125819,1704196,-105.0524317,39.7659733,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2322 S FEDERAL BLVD,3133886,1670805,-105.0243578,39.6741955,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,90 N MEADE ST,3130556,1686754,-105.0358983,39.7180265,4,411,barnum,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2400 BLK S CHEROKEE ST,3143336,1670146,-104.9907996,39.6722458,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E JEWELL AVE / S MADISON ST,3155776,1673788,-104.9465288,39.6820442,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7030 N TOWER RD,3205010,1726164,-104.7701123,39.8248691,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2645 W ALAMEDA AVE,3135384,1684412,-105.0187801,39.7115282,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLK W 30TH AVE,3131073,1702263,-105.0337776,39.7605943,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11001 E 51ST AVE,3179595,1713545,-104.860909,39.7907546,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10225 E GIRARD AVE,3177747,1664763,-104.8686912,39.6568751,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2080 S QUEBEC ST,3168133,1672740,-104.9026502,39.6789523,3,322,indian-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2404 W YALE AVE,3136217,1668125,-105.0161276,39.6668044,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,916 N INCA ST,3141384,1691513,-104.997314,39.7309327,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4458 N WALDEN WAY,3203626,1708814,-104.775532,39.7772725,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK S QUINCE ST,3168740,1680082,-104.9003215,39.6990967,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 BLK N QUEBEC ST,3167613,1689448,-104.9041083,39.7248285,3,321,hilltop,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3200 BLK N KEARNEY ST,3163827,1703523,-104.9172468,39.7635341,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLK N LAFAYETTE ST,3148643,1705065,-104.9712249,39.7680221,2,211,cole,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 59TH AVE / N ARGONNE ST,3205349,1718427,-104.769127,39.8036231,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 BLK S NEWTON ST,3130081,1684579,-105.0376261,39.7120623,4,411,barnum,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK N COLUMBINE ST,3152393,1690476,-104.9581947,39.7279122,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5190 N UMATILLA ST,3137125,1713330,-105.0120397,39.7908876,1,111,chaffee-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8900 BLK E 28TH AVE,3173164,1700973,-104.8840964,39.7563649,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5085 N HARLAN ST,3122661,1712563,-105.0635223,39.7889841,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6900 BLOCK N ARGONNE ST,3205190,1725356,-104.7694946,39.8226471,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5501 N PEORIA ST,3183030,1715547,-104.8486348,39.7961834,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2400 BLK S BROADWAY ST,3144182,1670212,-104.987793,39.6724139,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4761 N MOLINE ST,3181188,1711003,-104.8553046,39.7837457,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLOCK W 22ND AVE,3131636,1698380,-105.0318462,39.7499269,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 BLK S RALEIGH ST,3128730,1684971,-105.0424212,39.7131572,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1515 N QUEBEC ST,3167670,1695157,-104.9037724,39.7404997,2,223,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1550 W EVANS AVE,3139078,1671895,-105.0058921,39.6771117,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,15495 E PENSACOLA PL,3194577,1715774,-104.8075369,39.7965721,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2300 BLK S LINCOLN ST,3144677,1670516,-104.9860284,39.6732408,3,313,rosedale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,827 N LOCUST ST,3164745,1691232,-104.9142633,39.7297771,2,222,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4400 BLK S QUEBEC ST,3168097,1657480,-104.9031343,39.6370605,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,620 N FEDERAL BLVD,3133850,1689894,-105.0241305,39.7265996,1,122,sun-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8000 E QUINCY AVE,3169843,1657990,-104.8969229,39.638429,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3300 S TAMARAC DR,3169783,1664316,-104.8969868,39.6557965,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10155 E 29TH DR,3177356,1702272,-104.8691548,39.7598519,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7675 E UNION AVE,3168784,1654516,-104.9007644,39.6289111,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,I25 HWYNB / I225 HWYNB,3167089,1656410,-104.9067381,39.6341412,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7700 E CHERRY CREEK S DR,3169147,1673473,-104.8990305,39.6809462,3,322,indian-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK N SANTA FE DR,3141035,1692590,-104.9985337,39.7338946,1,123,lincoln-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1475 S COLORADO BLVD,3157068,1676977,-104.9418689,39.690777,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2305 W 5TH AVE,3136261,1688888,-105.015578,39.723803,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK N FEDERAL BLVD,3133663,1690385,-105.0247862,39.7279502,1,122,sun-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2400 BLK S CHEROKEE ST,3143336,1670245,-104.9907977,39.6725175,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6400 BLOCK E BATES AVE,3164697,1667351,-104.9149807,39.6642196,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5180 E SMITH RD,3160899,1707710,-104.9275679,39.7750791,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1000 BLK S KNOX CT,3131716,1679236,-105.0319125,39.6973716,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 W 4TH AVE,3135913,1687982,-105.0168323,39.7213209,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1230 S BELLAIRE ST,3158370,1678255,-104.9372143,39.6942633,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4100 E MEXICO AVE,3157840,1675062,-104.9391677,39.6855069,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLK S ST PAUL ST,3154683,1673051,-104.950428,39.6800392,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLK S KRAMERIA ST,3164090,1684071,-104.9167555,39.7101304,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2900 BLK N RACE ST,3150873,1701907,-104.9633586,39.759317,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1230 S JACKSON ST,3156822,1678223,-104.9427158,39.6942017,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5677 N GALENA ST,3177382,1716811,-104.8687029,39.7997626,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6400 E WESLEY AVE,3164869,1670513,-104.9142974,39.672897,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3424 N OSCEOLA ST,3129929,1704003,-105.0378152,39.765387,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11611 E 51ST AVE,3181501,1713502,-104.8541278,39.7905996,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3400 BLK W 23RD AVE,3131615,1698786,-105.0319134,39.7510417,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W RADCLIFF AVE / S LOWELL BLVD,3131039,1657067,-105.0347218,39.6365215,4,423,fort-logan,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLK S CLINTON ST,3174975,1683235,-104.8780871,39.7076372,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4953 N PERRY ST,3129391,1711727,-105.0395897,39.786598,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4000 BLK N ADAMS ST,3155005,1707170,-104.9485482,39.7736968,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E GVR BLVD / N TOWER RD,3204565,1711162,-104.7721244,39.7836974,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,N KITTREDGE ST / E BOLLING DR,3196285,1709482,-104.8016308,39.779264,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,348 S WASHINGTON ST,3146605,1683993,-104.9789046,39.710208,3,312,washington-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1104 S SHERIDAN BLVD,3125852,1678879,-105.0527577,39.6964726,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,9700 BLK E 29TH AVE,3175851,1701712,-104.8745215,39.7583432,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,100 BLK S ELATI ST,3142425,1685087,-104.9937401,39.7132762,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6515 E UNION AVE,3166247,1654190,-104.9097788,39.6280618,3,324,southmoor-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1000 BLK N PONTIAC ST,3167208,1692315,-104.9054814,39.7327062,2,223,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK 27TH ST,3145936,1701171,-104.9809336,39.7573753,2,211,five-points,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLK N FAIRFAX ST,3160702,1698181,-104.928482,39.748924,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3900 BLOCK W 47TH AVE,3129734,1710060,-105.0383993,39.7820171,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 S SANTA FE DR,3142345,1682796,-104.9940698,39.7069881,3,313,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4200 BLOCK N VALLEJO ST,3136830,1707277,-105.0132049,39.7742757,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,100 BLK E CENTER AVE,3144716,1682397,-104.9856509,39.7058562,3,312,washington-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,425 S CHEROKEE ST,3142782,1683562,-104.9925014,39.7090843,3,312,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8150 E COLFAX AVE,3170643,1694900,-104.893207,39.7397401,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7835 E 40TH AVE,3169587,1707230,-104.8966707,39.7736071,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5375 W 10TH AVE,3125094,1692507,-105.0552142,39.7338946,1,122,villa-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S FRANKLIN ST,3149629,1681854,-104.9682008,39.7042879,3,312,washington-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1820 W DIXIE PL,3138060,1711474,-105.0087483,39.7857788,1,111,chaffee-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1976 S BANNOCK ST,3143653,1673232,-104.9896119,39.6807127,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4645 N GIBRALTAR ST,3208678,1710242,-104.7575171,39.7810805,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4801 E 46TH AVE,3160079,1709799,-104.9304385,39.7808278,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2480 W 4TH AVE,3135913,1687982,-105.0168323,39.7213209,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,20800 BLK E 47TH AVE,3212504,1709975,-104.7439126,39.7802609,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1030 S LIPAN ST,3140366,1679331,-105.0011712,39.697506,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLK S GRANT ST,3145091,1672815,-104.9845113,39.6795456,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1340 W BAYAUD AVE,3139317,1685490,-105.0047797,39.7144295,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3880 W 38TH AVE,3129922,1705428,-105.0378143,39.7692989,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,200 BLK S PECOS ST,3138959,1684748,-105.0060666,39.7123979,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4696 N IRONTON ST,3179039,1710371,-104.8629666,39.7820524,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3000 BLOCK N RACE ST,3150873,1702198,-104.9633525,39.7601159,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6869 E LOWRY BLVD,3166282,1686357,-104.9089115,39.716367,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1400 BLK S RACE ST,3150912,1676917,-104.9637446,39.6907141,3,312,washington-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,510 E 51ST AVE,3145882,1712168,-104.9809022,39.7875646,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4670 N ALCOTT ST,3135836,1709882,-105.0166919,39.7814413,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1312 N JOSEPHINE ST,3152350,1693832,-104.9582764,39.7371257,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3600 BLK WYNKOOP ST,3147124,1706100,-104.9766072,39.7708875,2,211,five-points,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,18605 E GVR BLVD,3205114,1711659,-104.7701569,39.7850496,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,15627 E 51ST DR,3195128,1712648,-104.8056611,39.7879794,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W IRVINGTON PL / N ELATI ST,3142344,1686628,-104.9939975,39.7175078,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2200 BLK S RALEIGH ST,3129093,1671458,-105.0413734,39.6760558,4,421,harvey-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3200 BLK N PECOS ST,3138795,1703196,-105.0062931,39.7630436,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5500 N HAVANA ST,3178366,1715401,-104.8652361,39.7958732,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4500 BLOCK W 37TH AVE,3127675,1704636,-105.0458217,39.7671559,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK S PATTON CT,3129580,1681126,-105.0394691,39.70259,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 BLK N RALEIGH ST,3128861,1710798,-105.0414922,39.7840551,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1900 BLK N KEARNEY ST,3163886,1697089,-104.9171837,39.7458708,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 30TH AVE / N RACE VINE ALY,3151020,1701969,-104.9628344,39.7594848,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1255 N YOSEMITE ST,3172960,1693761,-104.8849956,39.7365706,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5800 BLK W CLEAR CREEK DR,3123362,1712481,-105.0610293,39.7887498,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 S BANNOCK ST,3143654,1673033,-104.9896124,39.6801664,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4701 N DAHLIA ST,3159401,1710162,-104.9328427,39.781836,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8150 E COLFAX AVE,3170643,1694900,-104.893207,39.7397401,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3255 S PARKER RD,3182869,1665220,-104.8504883,39.6580306,3,323,kennedy,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5142 E 39TH AVE,3160754,1706298,-104.9281154,39.7712055,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1600 BLK W PACIFIC PL,3138902,1672906,-105.0064978,39.6798898,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,510 E 51ST AVE,3145882,1712168,-104.9809022,39.7875646,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 40TH AVE / N NOME ST,3182223,1707062,-104.8517221,39.772907,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4849 N BANNOCK ST,3143036,1711445,-104.9910434,39.785624,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W 40TH AVE / N OSAGE ST,3139019,1706382,-105.0054347,39.7717863,1,112,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6672 N TOWER RD,3204535,1723538,-104.7718782,39.8176711,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4100 BLK E EASTMAN AVE,3157971,1665054,-104.9389219,39.6580303,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1193 S STEELE ST,3154668,1678469,-104.9503648,39.694913,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5500 BLK N BILLINGS ST,3190160,1715299,-104.8232682,39.7953595,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3575 RINGSBY CT,3146134,1707300,-104.9801046,39.7741973,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,188 N FEDERAL BLVD,3133727,1687475,-105.0246128,39.7199607,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6785 N ARGONNE ST,3205133,1724266,-104.7697287,39.8196563,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,800 BLOCK E KENTUCKY AVE,3146930,1680328,-104.9778243,39.7001417,3,312,washington-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLK S ONEIDA WAY,3166568,1683841,-104.9079532,39.709455,3,322,washington-virginia-vale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,S HOLLY ST / E ILIFF AVE,3162615,1671613,-104.9222797,39.6759564,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 BLK S ZUNI ST,3136183,1682369,-105.0159788,39.7059081,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLK N FOREST ST,3161036,1698243,-104.9272928,39.7490884,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4500 BLOCK N SHOSHONE ST,3137670,1708621,-105.0101907,39.7779527,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1200 BLK S INCA ST,3141357,1678054,-104.9976745,39.6939853,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4775 N ARGONNE ST,3206555,1710772,-104.7650552,39.7825828,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6600 BLK N YAMPA ST,3203956,1723539,-104.7739393,39.8176865,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S RALEIGH ST,3128950,1682530,-105.041683,39.7064531,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1525 N VALENTIA ST,3170983,1695307,-104.8919883,39.7408512,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1919 W ELK PL,3137673,1710394,-105.0101461,39.7828198,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5300 BLK N HARRISON ST,3156981,1714596,-104.941356,39.794049,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1105 S CHERRY ST,3159111,1678772,-104.9345697,39.69567,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3100 BLK N VINE ST,3151287,1702506,-104.9618735,39.7609547,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6300 E STAPLETON S DR,3164485,1708524,-104.9147916,39.7772509,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,501 N RARITAN WAY,3137832,1689157,-105.0099879,39.7245183,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2417 W 29TH AVE,3135813,1701627,-105.0169299,39.7587804,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1560 N WINONA CT,3127338,1695282,-105.0471864,39.7414821,1,121,west-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1400 BLK S IRVING ST,3132642,1676862,-105.0286655,39.6908412,4,421,mar-lee,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3410 S GALENA ST,3177588,1664016,-104.8692743,39.6548275,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,100 BLOCK S ELATI ST,3142502,1685323,-104.9934617,39.7139229,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4040 N QUEBEC ST,3168151,1707258,-104.9017787,39.77371,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK N LOCUST ST,3164922,1690871,-104.9136423,39.728783,2,222,montclair,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 48TH AVE / N LEYDEN ST,3163648,1710906,-104.9177151,39.7838046,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4624 N CENTRAL PARK BLVD,3173633,1709718,-104.8822168,39.7803623,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7600 BLK E EASTMAN AVE,3168439,1665145,-104.9017408,39.6580967,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5120 N HAVANA ST,3178268,1713597,-104.8656297,39.7909229,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4685 N QUEBEC ST,3167318,1710305,-104.9046711,39.7820895,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8821 E HAMPDEN AVE,3172888,1663518,-104.8859784,39.6535487,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2951 W PARK PL,3133794,1687355,-105.0243768,39.7196304,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,510 E 51ST AVE,3145882,1712168,-104.9809022,39.7875646,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLK N HOLLY ST,3162488,1704875,-104.921979,39.767269,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK S TENNYSON ST,3128328,1679458,-105.0439485,39.6980283,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3552 MORRISON RD,3131049,1683804,-105.0341996,39.7099212,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK N CLAYTON ST,3153369,1700295,-104.9545152,39.754851,2,213,skyland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7797 E 36TH AVE,3169278,1705104,-104.8978201,39.7677766,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,W 37TH AVE / N MARIPOSA ST,3139720,1705026,-105.0029673,39.7680534,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1300 BLK S MONROE ST,3156178,1677452,-104.945021,39.692096,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4000 BLK W BYERS PL,3129483,1684498,-105.0397532,39.7118483,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 BLK S WADSWORTH BLVD,3117482,1655207,-105.0828881,39.631596,4,423,marston,1,0,1
+theft-stln-vehicle-trailer,auto-theft,240 S PECOS ST,3138959,1684748,-105.0060666,39.7123979,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 42ND AVE / N IRELAND CT,3210432,1707840,-104.751347,39.7744473,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4675 N HOLLY ST,3162039,1709784,-104.9234654,39.7807527,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,400 BLK N DOWNING ST,3148178,1688417,-104.9732225,39.7223279,3,311,speer,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 BLK S BIRCH ST,3158393,1668938,-104.9373376,39.6686857,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,217 S RALEIGH ST,3128730,1684923,-105.042422,39.7130254,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 BLK S HIGH ST,3150565,1682978,-104.9648507,39.7073585,3,312,washington-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4600 N GLENCOE ST,3161437,1709628,-104.9256108,39.7803349,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1301 W 38TH AVE,3139938,1705632,-105.00218,39.7697136,1,112,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK S DAYTON ST,3175784,1681657,-104.8752504,39.7032901,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8150 E COLFAX AVE,3170643,1694900,-104.893207,39.7397401,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4901 N SHERIDAN BLVD,3125527,1711524,-105.0533422,39.7860937,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2825 W 25TH AVE,3134172,1699796,-105.0228008,39.7537778,1,121,jefferson-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3700 BLK W UNION AVE,3130290,1655659,-105.0374067,39.6326666,4,423,fort-logan,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2260 N FAIRFAX ST,3160884,1698721,-104.9278227,39.7504032,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4721 N IRONTON ST,3178790,1710880,-104.8638399,39.7834544,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8601 W CROSS DR,3114803,1649146,-105.0924961,39.61499,4,423,marston,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2700 BLK N TAMARAC ST,3169948,1700794,-104.8955388,39.7559328,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2292 S DELAWARE ST,3143013,1671179,-104.9919266,39.6750866,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK N FAIRFAX ST,3160917,1692582,-104.9278428,39.7335501,2,222,hale,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4210 N AIRPORT WAY,3198146,1707605,-104.7950616,39.774072,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2200 BLK N ULSTER ST,3170462,1698813,-104.8937577,39.7504853,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3835 N ELM ST,3160325,1705790,-104.9296529,39.7698184,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3211 W DARTMOUTH AVE,3132798,1665371,-105.0283232,39.6592933,4,423,harvey-park-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178120,1682384,-104.8669303,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,I25 HWYNB / W 6TH AVE,3136947,1689523,-105.0131272,39.7255361,1,123,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3300 BLK W 33RD AVE,3131937,1703566,-105.0306804,39.7641591,1,113,west-highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8800 BLK E MLK BLVD,3172570,1702617,-104.8861695,39.7608889,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3130 S SHERIDAN BLVD,3126949,1663682,-105.0491273,39.6547381,4,423,harvey-park-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,12905 E 39TH AVE,3186441,1706591,-104.8367289,39.7715304,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 BLK N CROWN BLVD,3187837,1710839,-104.8316516,39.7831636,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5335 W 48TH AVE,3125106,1710746,-105.0548538,39.7839636,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1800 BLK S GRANT ST,3145307,1673829,-104.9837235,39.6823259,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 W BAYAUD AVE,3141914,1685535,-104.9955476,39.7145138,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 N IVY ST,3163182,1700378,-104.9196125,39.754912,2,222,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3800 BLK W QUIGLEY DR,3130259,1657421,-105.0374849,39.6375042,4,423,fort-logan,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2700 S WADSWORTH BLVD,3118033,1668256,-105.080718,39.6674122,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4200 BLK N WYANDOT ST,3136467,1707268,-105.0144965,39.7742563,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6900 BLK E 2ND AVE,3166797,1687917,-104.9070447,39.7206403,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3883 N MONACO ST,3164975,1706111,-104.9131038,39.7706182,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2500 BLK N CENTRAL PARK BLVD,3171509,1699688,-104.8900133,39.752868,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1310 W EVANS AVE,3139789,1672213,-105.0033599,39.6779741,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1696 S BRYANT ST,3135568,1675146,-105.0183007,39.6860883,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3690 W 24TH AVE,3130556,1699143,-105.0356732,39.7520367,1,121,sloan-lake,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5555 E THRILL PL,3162293,1703363,-104.9227069,39.7631218,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3750 WYNKOOP ST,3147568,1706346,-104.9750227,39.7715558,2,211,five-points,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1375 E 19TH AVE,3148621,1697091,-104.9714682,39.7461326,6,622,city-park-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6804 E 48TH AVE,3165661,1710780,-104.9105557,39.7834231,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6708 E 47TH DR,3165410,1710482,-104.9114556,39.7826095,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7808 E CHERRY CREEK S DR,3169581,1672853,-104.8975032,39.6792363,3,322,indian-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,12445 E 39TH AVE,3184498,1706844,-104.8436345,39.7722637,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK S MONROE ST,3155980,1678876,-104.9456937,39.6960085,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4300 BLK N RACE ST,3150706,1708272,-104.963819,39.7767926,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2900 BLK E BATES AVE,3153926,1667252,-104.9532415,39.6641321,3,314,wellshire,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7600 E 1ST PL,3169326,1688059,-104.8980512,39.7209845,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4785 N ELATI ST,3142364,1710518,-104.9934529,39.7830896,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7003 E 47TH AVE,3166747,1710565,-104.9066966,39.7828134,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N TENNYSON ST,3128276,1710795,-105.0435738,39.784055,1,111,regis,1,0,1
+theft-stln-vehicle-trailer,auto-theft,900 BLK N ADAMS ST,3155055,1691875,-104.9487005,39.7317088,2,213,congress-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,400 N FOREST ST,3161277,1689021,-104.9266427,39.7237683,3,321,hilltop,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1200 BLK N TENNYSON ST,3128354,1693413,-105.0436069,39.7363374,1,122,west-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4105 N JACKSON ST,3156512,1707368,-104.9431826,39.7742151,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10020 E GIRARD AVE,3177052,1663817,-104.8711828,39.6542914,3,323,hampden,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5380 N BRIGHTON BLVD,3152881,1714510,-104.955948,39.7938812,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178120,1682384,-104.8669303,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,700 BLK N JULIAN ST,3131733,1690504,-105.0316456,39.7283044,1,122,villa-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4155 N PICADILLY RD,3215121,1707650,-104.7346715,39.7738185,5,523,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178120,1682384,-104.8669303,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1385 S SANTA FE DR,3142601,1677226,-104.9932704,39.6916933,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,541 N STEELE ST,3154705,1689427,-104.9499976,39.7249944,3,311,cherry-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3900 BLK N ZENOBIA ST,3125882,1706170,-105.052173,39.7713914,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2700 BLK N MACON WAY,3181413,1700878,-104.85476,39.7559469,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2699 S NORMAN CT,3166403,1668687,-104.9088901,39.667857,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLOCK N VALLEJO ST,3136904,1701271,-105.0130562,39.7577871,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6000 BLK E 17TH AVE,3163515,1696428,-104.9185181,39.7440627,2,222,south-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,500 BLK E 51ST AVE,3145881,1712167,-104.9809058,39.7875618,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6430 E 39TH AVE,3164921,1706215,-104.9132935,39.7709047,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6493 N CEYLON CT,3206535,1722400,-104.7647916,39.814503,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1000 BLK S MILWAUKEE WAY,3154246,1679371,-104.9518451,39.6973962,3,312,belcaro,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,N KITTREDGE ST / E GVR BLVD,3196248,1711133,-104.8017173,39.783797,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5395 E YALE AVE,3161918,1668775,-104.9248197,39.6681776,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1385 S SANTA FE DR,3142601,1677225,-104.9932704,39.6916906,3,313,overland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2240 E BUCHTEL BLVD,3151480,1673997,-104.9617877,39.6826888,3,313,university,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK S MONROE ST,3155980,1678876,-104.9456937,39.6960085,3,312,cory-merrill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1290 N KNOX CT,3131587,1693442,-105.0321109,39.7363718,1,122,west-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4300 BLOCK E WARREN AVE,3158288,1671621,-104.9376516,39.6760529,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6625 E EVANS AVE,3165798,1672656,-104.9109478,39.6787636,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2321 W EVANS AVE,3136530,1672547,-105.0149319,39.6789393,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7007 E SANDOWN RD,3166763,1707136,-104.9067194,39.7734001,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8200 BLK E BEEKMAN PL,3170660,1713496,-104.8927045,39.7907884,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3457 RINGSBY CT,3145468,1706612,-104.9824879,39.7723191,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3700 BLK N TEJON ST,3137353,1705278,-105.0113825,39.7687804,1,113,highland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,9305 E NORTHFIELD BLVD,3174277,1711332,-104.8798863,39.7847809,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1100 BLK S ZUNI ST,3136233,1678572,-105.015873,39.6954837,4,422,ruby-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 25TH AVE / N KEARNEY ST,3163764,1699643,-104.9175593,39.752884,2,222,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4500 E EVANS AVE,3159059,1672320,-104.9348971,39.6779587,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6804 E 48TH AVE,3165661,1710780,-104.9105557,39.7834231,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7000 BLK E SANDOWN RD,3166763,1707136,-104.9067194,39.7734001,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4055 N ELATI ST,3142237,1706720,-104.99398,39.7726655,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4600 BLK N FRASER WAY,3193197,1708915,-104.8126325,39.7777722,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7900 E UNION AVE,3170101,1654070,-104.8960993,39.6276628,3,324,hampden-south,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5100 BLK W BAYAUD AVE,3126070,1685602,-105.0518651,39.7149258,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4800 N COLORADO BLVD,3157518,1710900,-104.9395262,39.7838939,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3900 BLK S IVY WAY,3163251,1660227,-104.9202784,39.6446879,3,324,southmoor-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,79 S VRAIN ST,3127707,1685711,-105.0460443,39.7152027,4,411,barnum-west,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6515 E UNION AVE,3166247,1654190,-104.9097788,39.6280618,3,324,southmoor-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5600 BLK N BEELER ST,3173680,1716632,-104.8818822,39.7993411,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6803 E 47TH AVE,3166060,1710565,-104.909141,39.7828257,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4660 S KIPLING ST,3109893,1655399,-105.109829,39.6322156,4,423,marston,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7003 E 47TH DR,3166748,1710566,-104.9066931,39.7828162,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2400 BLK N SYRACUSE ST,3169046,1699693,-104.8987728,39.7529268,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK N JACKSON ST,3156722,1701369,-104.9425665,39.7577435,2,213,skyland,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6703 E 47TH AVE,3165671,1710458,-104.9105275,39.7825389,2,221,northeast-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10600 BLK E 54TH AVE,3178709,1715232,-104.8640197,39.7954027,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2535 E 40TH AVE,3153043,1706980,-104.9555321,39.7732077,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4301 E LASALLE PL,3158277,1669523,-104.9377368,39.6702936,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3036 N DEXTER ST,3159541,1702528,-104.9325143,39.7608772,2,221,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2237 S JASON ST,3140806,1671480,-104.9997612,39.6759465,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8150 E COLFAX AVE,3170644,1694900,-104.8932034,39.7397401,2,223,east-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4801 N PECOS ST,3138569,1710884,-105.0069486,39.7841516,1,111,chaffee-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E LOUISIANA AVE / S BIRCH ST,3158651,1677781,-104.9362262,39.6929573,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,510 E 51ST AVE,3145882,1712168,-104.9809022,39.7875646,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 BLK S LINCOLN ST,3144655,1672812,-104.9860604,39.6795442,3,313,platt-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2600 BLK N CHERRY ST,3159071,1700490,-104.9342312,39.7552906,2,222,north-park-hill,1,0,1
+theft-stln-vehicle-trailer,auto-theft,9591 E NORTHFIELD BLVD,3175167,1710663,-104.8767359,39.7829277,5,511,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7990 W CRESTLINE AVE,3116762,1650077,-105.0855274,39.6175216,4,423,marston,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2000 S MILWAUKEE ST,3154221,1672960,-104.9520714,39.679797,3,314,university-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11250 E 40TH AVE,3180477,1706897,-104.8579377,39.7724881,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3850 N REVERE ST,3184728,1706040,-104.8428369,39.770052,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1005 N ACOMA ST,3143651,1692033,-104.9892435,39.7323255,6,611,civic-center,1,0,1
+theft-stln-vehicle-trailer,auto-theft,8959 E 40TH AVE,3174514,1707366,-104.8791395,39.7738893,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178121,1682384,-104.8669268,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 60TH AVE / N ARGONNE ST,3205345,1719115,-104.7691215,39.8055118,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3500 BLOCK N ST PAUL ST,3154381,1704312,-104.9508296,39.7658616,2,212,clayton,1,0,1
+theft-stln-vehicle-trailer,auto-theft,16100 BLK E 54TH AVE,3196749,1714408,-104.7998449,39.7927766,5,522,gateway-green-valley-ranch,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4307 N VALLEJO ST,3136712,1707732,-105.013616,39.7755264,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4700 BLK N STUART ST,3128419,1710128,-105.0430769,39.782222,1,111,berkeley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1525 N OSCEOLA ST,3129787,1695143,-105.0384804,39.7410667,1,121,west-colfax,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5100 BLOCK W 8TH AVE,3125893,1690729,-105.0524045,39.7290029,1,122,villa-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,10035 E 40TH AVE,3176214,1707727,-104.8730828,39.7748483,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7108 E LOWRY BLVD,3167297,1686479,-104.9053008,39.7166838,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,11151 E 51ST AVE,3180368,1713550,-104.8581582,39.7907534,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2120 S ASH ST,3158139,1672286,-104.9381663,39.677881,3,314,university-hills,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3870 N QUEBEC ST,3168332,1706036,-104.9011634,39.7703522,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,18350 E 68TH AVE,3204082,1724320,-104.7734685,39.8198276,5,522,dia,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1208 W EVANS AVE,3140176,1672195,-105.0019854,39.6779189,4,422,college-view-south-platte,1,0,1
+theft-stln-vehicle-trailer,auto-theft,6301 W HAMPDEN AVE,3121969,1663455,-105.0668179,39.6541815,4,423,bear-valley,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2450 W 2ND AVE,3136119,1687390,-105.0161112,39.7196927,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4600 BLK W BINGHAM PL,3127266,1682941,-105.0476609,39.7076045,4,412,westwood,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2800 BLK N VINE ST,3151095,1701451,-104.9625786,39.7580616,2,211,whittier,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2645 W ALAMEDA AVE,3135384,1684412,-105.0187801,39.7115282,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2340 W 2ND AVE,3136492,1687504,-105.0147831,39.7200002,4,411,valverde,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 28TH PL / N SYRACUSE ST,3168978,1701203,-104.8989791,39.7570732,5,512,central-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,400 W 48TH AVE,3142821,1710447,-104.9918283,39.7828877,1,112,globeville,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5400 BLK N OSWEGO ST,3182417,1715164,-104.850826,39.795144,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4610 N ZUNI ST,3136164,1709546,-105.0155312,39.7805142,1,111,sunnyside,1,0,1
+theft-stln-vehicle-trailer,auto-theft,E 51ST AVE / N DURHAM CT,3191520,1711881,-104.8185197,39.7859489,5,521,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLK N MADISON ST,3155887,1688055,-104.9458252,39.7212082,3,311,cherry-creek,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2306 S LINDEN CT,3164695,1671154,-104.9149008,39.6746598,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,7500 BLK E 8TH AVE,3168777,1691332,-104.8999259,39.7299794,3,321,lowry-field,1,0,1
+theft-stln-vehicle-trailer,auto-theft,300 BLK W ARCHER PL,3142616,1685877,-104.9930455,39.715442,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,4155 E JEWELL AVE,3158026,1674324,-104.938523,39.6834777,3,322,virginia-village,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1098 W 4TH AVE,3140353,1688391,-105.0010405,39.7223778,3,311,baker,1,0,1
+theft-stln-vehicle-trailer,auto-theft,3301 E 42ND AVE,3154991,1707717,-104.9485862,39.7751986,2,212,elyria-swansea,1,0,1
+theft-stln-vehicle-trailer,auto-theft,5401 N OSWEGO ST,3182490,1714530,-104.8505824,39.7934022,5,511,montbello,1,0,1
+theft-stln-vehicle-trailer,auto-theft,2200 BLK S JASMINE ST,3163262,1671541,-104.9199828,39.6757474,3,323,goldsmith,1,0,1
+theft-stln-vehicle-trailer,auto-theft,765 S JASON ST,3140827,1681195,-104.9994964,39.7026161,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,615 S HAVANA ST,3178120,1682384,-104.8669303,39.7052414,3,321,windsor,1,0,1
+theft-stln-vehicle-trailer,auto-theft,600 BLK S RARITAN ST,3138363,1681729,-105.0082431,39.704119,4,412,athmar-park,1,0,1
+theft-stln-vehicle-trailer,auto-theft,1400 BLK S GRANT ST,3145123,1676512,-104.9843231,39.6896943,3,313,platt-park,1,0,1
+theft-of-motor-vehicle,auto-theft,429 E 14TH AVE,3145833,1694370,-104.981438,39.7387071,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,2525 N ELIOT ST,3133894,1699975,-105.0237862,39.7542732,1,121,jefferson-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1512 LARIMER ST,3141264,1697908,-104.9976149,39.74849,6,612,union-station,1,0,1
+theft-of-motor-vehicle,auto-theft,680 N SHERIDAN BLVD,3125821,1690234,-105.0526691,39.727645,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,3481 S FENTON ST,3124242,1663448,-105.0587454,39.6541322,4,423,bear-valley,1,0,1
+theft-of-motor-vehicle,auto-theft,8405 E HAMPDEN AVE,3170736,1663549,-104.8936204,39.6536735,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,400 BLK S GALENA WAY,3177326,1683274,-104.8697303,39.7076998,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,3800 WYNKOOP ST,3147798,1706631,-104.9741986,39.7723345,2,212,elyria-swansea,1,0,1
+theft-of-motor-vehicle,auto-theft,9201 E MISSISSIPPI AVE,3175063,1680269,-104.8778466,39.6994933,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,2280 S MONACO ST,3165489,1671409,-104.9120742,39.6753458,3,323,goldsmith,1,0,1
+theft-of-motor-vehicle,auto-theft,3168 W 14TH AVE,3132793,1694249,-105.0278078,39.7385701,1,122,west-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,2100 WELTON ST,3144826,1698199,-104.9849415,39.7492341,6,621,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,3550 S KENDALL ST,3122263,1662641,-105.0657876,39.6519429,4,423,bear-valley,1,0,1
+theft-of-motor-vehicle,auto-theft,4310 N AIRPORT WAY,3198146,1707824,-104.7950555,39.7746732,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,1001 E BAYAUD AVE,3147682,1685691,-104.9750417,39.7148524,3,311,speer,1,0,1
+theft-of-motor-vehicle,auto-theft,18900 BLK E RANDOLPH PL,3206000,1716322,-104.7668705,39.7978303,5,523,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,18600 E 63RD AVE,3205132,1720889,-104.7698289,39.8103862,5,522,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,6165 E ILIFF AVE,3163856,1671601,-104.9178712,39.6759017,3,323,goldsmith,1,0,1
+theft-of-motor-vehicle,auto-theft,300 BLK S CORONA ST,3147914,1684280,-104.9742461,39.7109752,3,312,washington-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,4100 E SMITH RD,3157629,1708087,-104.939193,39.77617,2,221,northeast-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,2100 BLK S EMERSON ST,3147139,1671839,-104.9772552,39.6768342,3,313,rosedale,1,0,1
+theft-of-motor-vehicle,auto-theft,1500 BLOCK N WILLIAMS ST,3150197,1695164,-104.965904,39.7408173,6,622,city-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,801 N LOGAN ST,3145494,1690953,-104.9827126,39.7293321,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,734 N SHERIDAN BLVD,3125934,1690577,-105.0522614,39.7285851,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,5500 BLK N LEWISTON CT,3197680,1715529,-104.7965011,39.7958341,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,770 N ALBION ST,3157750,1690805,-104.9391421,39.7287261,2,222,hale,1,0,1
+theft-of-motor-vehicle,auto-theft,2300 WALNUT ST,3143578,1700886,-104.9893261,39.7566297,6,612,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,6950 E CHENANGO AVE,3167357,1653201,-104.9058611,39.6253268,3,324,southmoor-park,1,0,1
+theft-of-motor-vehicle,auto-theft,8405 E HAMPDEN AVE,3170736,1663549,-104.8936204,39.6536735,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,700 BLK N STUART ST,3128709,1690581,-105.0423954,39.7285581,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,3999 N HOLLY ST,3162197,1706798,-104.9229707,39.772553,2,221,northeast-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLOCK N GRANT ST,3145251,1694561,-104.9835037,39.7392405,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,4401 W 24TH AVE,3128130,1699790,-105.0442897,39.7538465,1,121,sloan-lake,1,0,1
+theft-of-motor-vehicle,auto-theft,616 N ALBION ST,3157752,1689823,-104.9391566,39.7260303,2,222,hale,1,0,1
+theft-of-motor-vehicle,auto-theft,4300 N DUNKIRK WAY,3207202,1707438,-104.7628495,39.7734163,5,523,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,4600 E KENTUCKY AVE,3159407,1680255,-104.933485,39.6997361,3,322,virginia-village,1,0,1
+theft-of-motor-vehicle,auto-theft,100 BLK S CLAY ST,3134830,1685554,-105.0207278,39.7146713,4,411,valverde,1,0,1
+theft-of-motor-vehicle,auto-theft,99 E ARIZONA AVE,3144529,1678404,-104.9863958,39.6948975,3,313,platt-park,1,0,1
+theft-of-motor-vehicle,auto-theft,2401 N ALCOTT ST,3135417,1699221,-105.0183837,39.7521813,1,121,jefferson-park,1,0,1
+theft-of-motor-vehicle,auto-theft,00 BLK N INCA ST,3141388,1686812,-104.9973922,39.7180275,3,311,baker,1,0,1
+theft-of-motor-vehicle,auto-theft,10150 E HARVARD AVE,3177303,1669895,-104.8701417,39.6709721,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,4300 E 9TH AVE,3158465,1691359,-104.9365879,39.7302348,2,222,hale,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK STOUT ST,3141992,1696530,-104.9950531,39.744696,6,611,cbd,1,0,1
+theft-of-motor-vehicle,auto-theft,1260 S COLORADO BLVD,3157604,1678232,-104.9399368,39.6942132,3,322,virginia-village,1,0,1
+theft-of-motor-vehicle,auto-theft,445 N BRYANT ST,3135082,1688502,-105.0197767,39.7227605,4,411,valverde,1,0,1
+theft-of-motor-vehicle,auto-theft,4444 N HAVANA ST,3178510,1708860,-104.8648864,39.7779147,5,511,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,900 E COLFAX AVE,3147265,1694803,-104.9763373,39.7398732,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,4343 N AIRPORT WAY,3197667,1707668,-104.7967639,39.7742551,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,6890 N TOWER RD,3204722,1724886,-104.7711741,39.8213673,5,522,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,3100 S SHERIDAN BLVD,3126090,1663710,-105.0521776,39.6548266,4,423,harvey-park-south,1,0,1
+theft-of-motor-vehicle,auto-theft,1272 N PENNSYLVANIA ST,3146039,1693575,-104.9807217,39.7365214,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,1500 BLK S PENNSYLVANIA ST,3145986,1676054,-104.9812659,39.6884235,3,313,platt-park,1,0,1
+theft-of-motor-vehicle,auto-theft,800 BLK S DEXTER ST,3159726,1680548,-104.9323448,39.700535,3,322,washington-virginia-vale,1,0,1
+theft-of-motor-vehicle,auto-theft,1700 BLK S LINCOLN ST,3144484,1674602,-104.986632,39.6844608,3,313,platt-park,1,0,1
+theft-of-motor-vehicle,auto-theft,8200 E SMITH RD,3170985,1705994,-104.8917267,39.7701885,5,512,central-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1433 N WILLIAMS ST,3150076,1694474,-104.9663487,39.7389251,6,622,cheesman-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1024 S HAZEL CT,3133065,1679521,-105.0271133,39.6981348,4,412,westwood,1,0,1
+theft-of-motor-vehicle,auto-theft,1900 BLK 19TH ST,3140808,1700625,-104.9991833,39.7559555,6,612,union-station,1,0,1
+theft-of-motor-vehicle,auto-theft,1212 S FEDERAL BLVD,3133820,1678193,-105.0244549,39.6944783,4,422,ruby-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,10675 E 45TH AVE,3178874,1709230,-104.8635821,39.7789234,5,511,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,E BRUCE RANDOLPH AVE / N COLORADO BLVD,3157268,1703824,-104.9405707,39.7644736,2,221,clayton,1,0,1
+theft-of-motor-vehicle,auto-theft,300 BLK E 7TH AVE,3145293,1690249,-104.9834415,39.7274026,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,700 BLK 25TH ST,3145683,1699812,-104.981861,39.7536486,6,621,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,16199 E GVR BLVD,3196824,1711194,-104.7996662,39.7839523,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,727 N PEARL ST,3146176,1690403,-104.9802991,39.7278115,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,4250 N CROWN BLVD,3185781,1708737,-104.8390213,39.7774347,5,521,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,4343 N AIRPORT WAY,3197667,1707668,-104.7967639,39.7742551,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,CALIFORNIA ST / PARK AVEW,3145157,1699103,-104.9837461,39.7517105,6,621,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,4550 N KITTREDGE ST,3196856,1709001,-104.7996125,39.7779316,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,1500 BLK N ELM ST,3160430,1695534,-104.9295084,39.7416622,2,222,south-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,4600 E ASBURY CIR,3159228,1673052,-104.9342805,39.6799653,3,322,virginia-village,1,0,1
+theft-of-motor-vehicle,auto-theft,00 BLK S EMERSON ST,3147244,1685812,-104.9765962,39.7151915,3,311,speer,1,0,1
+theft-of-motor-vehicle,auto-theft,1600 BLK S MICHIGAN WAY,3130600,1675244,-105.0359509,39.6864283,4,421,mar-lee,1,0,1
+theft-of-motor-vehicle,auto-theft,2140 S LEYDEN ST,3164436,1672204,-104.9157969,39.6775469,3,323,goldsmith,1,0,1
+theft-of-motor-vehicle,auto-theft,3299 W ALAMEDA AVE,3132332,1684422,-105.029628,39.7115996,4,411,barnum,1,0,1
+theft-of-motor-vehicle,auto-theft,6165 E ILIFF AVE,3163856,1671601,-104.9178712,39.6759017,3,323,goldsmith,1,0,1
+theft-of-motor-vehicle,auto-theft,4401 N EUGENE WAY,3191295,1707738,-104.8194307,39.7745805,5,521,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,4700 BLK N CROWN BLVD,3187084,1710421,-104.8343417,39.7820313,5,521,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,8000 W CRESTLINE AVE,3116588,1649431,-105.0861555,39.6157503,4,423,marston,1,0,1
+theft-of-motor-vehicle,auto-theft,2180 S COLORADO BLVD,3157483,1672041,-104.9405023,39.6772196,3,314,university-hills,1,0,1
+theft-of-motor-vehicle,auto-theft,4403 N LOWELL BLVD,3130713,1708212,-105.0349497,39.7769303,1,111,berkeley,1,0,1
+theft-of-motor-vehicle,auto-theft,1859 28TH ST,3144201,1703697,-104.9870538,39.7643367,6,612,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,4343 N AIRPORT WAY,3197667,1707668,-104.7967639,39.7742551,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,1100 BLK S OGDEN ST,3147601,1678806,-104.975471,39.6959529,3,312,washington-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,6801 N TOWER RD,3204153,1724600,-104.7732078,39.8205947,5,522,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,9315 E CENTER AVE,3174624,1683083,-104.8793384,39.7072266,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,755 S RARITAN ST,3138170,1681232,-105.0089386,39.7027575,4,412,athmar-park,1,0,1
+theft-of-motor-vehicle,auto-theft,9900 BLK E EXPOSITION AVE,3176323,1681795,-104.8733314,39.7036587,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,700 BLK N QUINCE ST,3168335,1690193,-104.9015241,39.7268607,3,321,lowry-field,1,0,1
+theft-of-motor-vehicle,auto-theft,1719 N PEARL ST,3146177,1696179,-104.980178,39.7436677,6,621,north-capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,4000 BLK N ALBION ST,3157680,1707127,-104.9390327,39.7735338,2,221,northeast-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,3100 BLK W EXPOSITION AVE,3132784,1681753,-105.0280707,39.7042661,4,412,westwood,1,0,1
+theft-of-motor-vehicle,auto-theft,2500 BLK S RALEIGH ST,3129098,1669430,-105.041392,39.6704884,4,421,harvey-park,1,0,1
+theft-of-motor-vehicle,auto-theft,2770 W EVANS AVE,3134572,1672041,-105.0218977,39.6775787,4,422,college-view-south-platte,1,0,1
+theft-of-motor-vehicle,auto-theft,901 S BROADWAY ST,3144190,1680279,-104.9875628,39.70005,3,313,baker,1,0,1
+theft-of-motor-vehicle,auto-theft,1090 N OSAGE ST,3139189,1692422,-105.0051004,39.7334612,1,123,lincoln-park,1,0,1
+theft-of-motor-vehicle,auto-theft,8340 E NORTHFIELD BLVD,3171000,1710381,-104.8915689,39.7822311,5,511,central-park,1,0,1
+theft-of-motor-vehicle,auto-theft,2382 S HUMBOLDT ST,3149293,1670595,-104.9696286,39.6733848,3,313,university,1,0,1
+theft-of-motor-vehicle,auto-theft,9100 BLK E 47TH AVE,3173747,1710557,-104.8817909,39.7826633,5,511,central-park,1,0,1
+theft-of-motor-vehicle,auto-theft,8600 E ALAMEDA AVE,3171261,1683048,-104.8912919,39.7071929,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,4700 BLK N CEYLON ST,3207158,1711051,-104.7629017,39.7833353,5,523,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,4250 N CROWN BLVD,3185781,1708737,-104.8390213,39.7774347,5,521,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,1500 BLK N OGDEN ST,3147802,1695203,-104.9744196,39.7409627,6,621,north-capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,6875 E ILIFF AVE,3166143,1671323,-104.9097529,39.675098,3,323,goldsmith,1,0,1
+theft-of-motor-vehicle,auto-theft,1845 N SHERMAN ST,3144759,1696872,-104.9852065,39.7455923,6,621,north-capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,980 N GRANT ST,3145325,1691828,-104.9832958,39.7317367,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,600 S GRANT ST,3145258,1682297,-104.9837266,39.7055733,3,312,washington-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,7930 E NORTHFIELD BLVD,3170025,1710878,-104.8950261,39.7836133,5,511,central-park,1,0,1
+theft-of-motor-vehicle,auto-theft,2690 N ONEIDA ST,3166508,1700954,-104.9077699,39.7564342,2,222,north-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,2300 BLK COURT PL,3146335,1698392,-104.9795711,39.7497403,6,621,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,2795 N SPEER BLVD,3135261,1700748,-105.0189098,39.7563755,1,121,jefferson-park,1,0,1
+theft-of-motor-vehicle,auto-theft,15TH ST / STOUT ST,3142215,1696611,-104.9942585,39.744915,6,611,cbd,1,0,1
+theft-of-motor-vehicle,auto-theft,1801 N PENNSYLVANIA ST,3145861,1696682,-104.9812915,39.7450535,6,621,north-capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,2000 BLOCK BLAKE ST,3142299,1700088,-104.9938909,39.7544587,6,612,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,1100 BLK N VERBENA ST,3171489,1693307,-104.8902368,39.7353515,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,1299 N KNOX CT,3131504,1693435,-105.0324061,39.7363538,1,122,west-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,200 BLK N MILWAUKEE ST,3154167,1687554,-104.9519504,39.7198615,3,311,cherry-creek,1,0,1
+theft-of-motor-vehicle,auto-theft,343 S BROADWAY ST,3143645,1684041,-104.9894245,39.710386,3,312,baker,1,0,1
+theft-of-motor-vehicle,auto-theft,2800 BLK N VALENTIA ST,3171059,1701214,-104.8915774,39.7570654,5,512,central-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1693 N XENIA ST,3172624,1696314,-104.8861289,39.7435853,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,1200 BLK N WASHINGTON ST,3146689,1693642,-104.9784092,39.7366951,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,5100 BLOCK W BYRON PL,3125854,1699457,-105.0523902,39.7529634,1,121,sloan-lake,1,0,1
+theft-of-motor-vehicle,auto-theft,8000 E 12TH AVE,3169810,1692979,-104.8962144,39.7344819,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,3000 BLK W 34TH AVE,3133020,1703663,-105.0268263,39.7644099,1,113,west-highland,1,0,1
+theft-of-motor-vehicle,auto-theft,16137 E RANDOLPH PL,3196934,1716262,-104.7991357,39.797862,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,2900 BLOCK W HOLDEN PL,3134016,1693175,-105.0234791,39.7356042,1,122,sun-valley,1,0,1
+theft-of-motor-vehicle,auto-theft,2600 BLK W MISSISSIPPI AVE,3135030,1679142,-105.0201373,39.697066,4,412,athmar-park,1,0,1
+theft-of-motor-vehicle,auto-theft,4100 BLK N MONROE ST,3156016,1707388,-104.9449468,39.7742784,2,212,elyria-swansea,1,0,1
+theft-of-motor-vehicle,auto-theft,4601 S BALSAM WAY,3115125,1655689,-105.0912486,39.6329486,4,423,marston,1,0,1
+theft-of-motor-vehicle,auto-theft,4000 BLOCK W 39TH AVE,3129411,1705995,-105.0396219,39.7708625,1,111,berkeley,1,0,1
+theft-of-motor-vehicle,auto-theft,2900 BLOCK N ZENOBIA ST,3125953,1701794,-105.0519972,39.7593776,1,113,west-highland,1,0,1
+theft-of-motor-vehicle,auto-theft,800 BLK N OGDEN ST,3147502,1691194,-104.9755686,39.729962,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,390 S FEDERAL BLVD,3133732,1683676,-105.0246657,39.7095316,4,412,athmar-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK N KING ST,3131161,1694323,-105.0336095,39.7387964,1,122,west-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,6495 E HAPPY CANYON RD,3165298,1658614,-104.9130465,39.6402237,3,324,southmoor-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1550 N RALEIGH ST,3128933,1695392,-105.0415127,39.7417621,1,121,west-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,25 E 5TH AVE,3144416,1689095,-104.9865826,39.7242483,3,311,speer,1,0,1
+theft-of-motor-vehicle,auto-theft,10225 E GIRARD AVE,3177747,1664763,-104.8686912,39.6568751,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,3131 N ELIZABETH ST,3152836,1702669,-104.9563603,39.7613768,2,213,skyland,1,0,1
+theft-of-motor-vehicle,auto-theft,882 S HOLLY ST,3162839,1680526,-104.9212822,39.7004206,3,322,washington-virginia-vale,1,0,1
+theft-of-motor-vehicle,auto-theft,2300 BLK W 37TH AVE,3136167,1705056,-105.0156057,39.7681884,1,113,highland,1,0,1
+theft-of-motor-vehicle,auto-theft,2300 BLK S ACOMA ST,3143986,1670705,-104.9884794,39.6737703,3,313,overland,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK E 5TH AVE,3149006,1688915,-104.9702687,39.7236818,3,311,country-club,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK N MADISON ST,3155773,1694839,-104.9460835,39.7398335,2,213,congress-park,1,0,1
+theft-of-motor-vehicle,auto-theft,6195 N PANASONIC WAY,3201789,1720335,-104.7817434,39.8089386,5,522,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,2555 31ST ST,3143084,1707320,-104.9909549,39.7742996,1,112,globeville,1,0,1
+theft-of-motor-vehicle,auto-theft,S BROADWAY BANNOCK ALY ST / W ARCHER PL,3143735,1685973,-104.989066,39.7156883,3,311,baker,1,0,1
+theft-of-motor-vehicle,auto-theft,840 S ONEIDA ST,3166806,1680719,-104.9071797,39.7008802,3,322,washington-virginia-vale,1,0,1
+theft-of-motor-vehicle,auto-theft,9600 BLK E GIRARD AVE,3175497,1663680,-104.8767087,39.6539447,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,2700 BLK LARIMER ST,3145361,1702126,-104.9829594,39.760006,2,211,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,733 E 2ND AVE,3146813,1687399,-104.9780958,39.7195549,3,311,speer,1,0,1
+theft-of-motor-vehicle,auto-theft,2525 S DAYTON WAY,3175550,1670168,-104.8763623,39.6717548,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK S BANNOCK ST,3143405,1676590,-104.9904261,39.689935,3,313,overland,1,0,1
+theft-of-motor-vehicle,auto-theft,5500 BLK N GRANBY ST,3193824,1715044,-104.8102363,39.7945839,5,521,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,3105 W FLORIDA AVE,3133189,1676559,-105.0267274,39.6900016,4,421,mar-lee,1,0,1
+theft-of-motor-vehicle,auto-theft,3518 W DAKOTA AVE,3131134,1683515,-105.0339027,39.7091266,4,412,westwood,1,0,1
+theft-of-motor-vehicle,auto-theft,1300 BLK N WABASH ST,3171821,1694074,-104.889038,39.737451,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,1700 BLOCK N PEARL ST,3146283,1696323,-104.9797982,39.7440613,6,621,north-capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,3225 S PARKER RD,3182188,1665464,-104.8529008,39.6587138,3,323,kennedy,1,0,1
+theft-of-motor-vehicle,auto-theft,2800 BLK N GAYLORD ST,3151442,1701223,-104.9613492,39.7574301,2,211,whittier,1,0,1
+theft-of-motor-vehicle,auto-theft,5700 BLK E BAYAUD AVE,3163087,1685674,-104.9202841,39.7145486,3,321,hilltop,1,0,1
+theft-of-motor-vehicle,auto-theft,5219 N MONROE ST,3155849,1713858,-104.9454004,39.7920421,2,212,elyria-swansea,1,0,1
+theft-of-motor-vehicle,auto-theft,1600 BLK S STUART ST,3128645,1675686,-105.0428894,39.6876689,4,421,mar-lee,1,0,1
+theft-of-motor-vehicle,auto-theft,10975 E 55TH AVE,3179815,1715686,-104.8600725,39.7966277,5,511,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,1000 BLK N OSAGE ST,3138992,1692468,-105.0058,39.7335904,1,123,lincoln-park,1,0,1
+theft-of-motor-vehicle,auto-theft,4200 BLK MORRISON RD,3128727,1681827,-105.0424881,39.7045263,4,412,westwood,1,0,1
+theft-of-motor-vehicle,auto-theft,2880 S FEDERAL BLVD,3133879,1667142,-105.0244508,39.6641397,4,422,college-view-south-platte,1,0,1
+theft-of-motor-vehicle,auto-theft,225 N BRYANT ST,3135311,1687706,-105.0189776,39.720572,4,411,valverde,1,0,1
+theft-of-motor-vehicle,auto-theft,11000 BLK E 26TH AVE,3180035,1700480,-104.859671,39.7548811,5,512,central-park,1,0,1
+theft-of-motor-vehicle,auto-theft,2300 BLK N JULIAN ST,3131667,1698987,-105.0317248,39.7515928,1,121,sloan-lake,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK W BYERS PL,3138666,1684746,-105.0071081,39.7123968,4,411,valverde,1,0,1
+theft-of-motor-vehicle,auto-theft,1600 BLK S ALCOTT ST,3135927,1675152,-105.017025,39.6860995,4,422,ruby-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,3500 BLK N VINE ST,3151084,1704639,-104.9625506,39.7668134,2,211,cole,1,0,1
+theft-of-motor-vehicle,auto-theft,5850 E EVANS AVE,3163554,1672327,-104.9189276,39.6779001,3,323,goldsmith,1,0,1
+theft-of-motor-vehicle,auto-theft,8400 BLK E COLFAX AVE,3171626,1695167,-104.8897052,39.740455,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,24050 E 78TH AVE,3223419,1730557,-104.7044378,39.8365037,7,759,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,7555 E HAMPDEN AVE,3168383,1663809,-104.9019709,39.6544301,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,1700 BLK N HUMBOLDT ST,3149175,1696094,-104.9695188,39.7433868,6,622,city-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,800 BLOCK E 13TH AVE,3146993,1693681,-104.9773274,39.7367974,6,623,capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,E 16TH AVE / N SHERMAN ST,3144866,1695446,-104.9848548,39.741676,6,621,north-capitol-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,3200 BLK W AVONDALE DR,3132317,1693792,-105.0295088,39.7373223,1,122,west-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,500 BLK S BROADWAY ST,3144232,1682403,-104.987371,39.7058802,3,312,washington-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,3800 BLK N VRAIN ST,3127441,1706031,-105.0466294,39.7709886,1,111,berkeley,1,0,1
+theft-of-motor-vehicle,auto-theft,2400 BLK BLAKE ST,3143914,1701755,-104.9881136,39.75901,6,612,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,900 BLK N FEDERAL BLVD,3133441,1691639,-105.0255522,39.7313959,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,8000 E 12TH AVE,3169810,1692979,-104.8962144,39.7344819,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,4200 N CARSON ST,3187290,1707727,-104.833679,39.7746318,5,521,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,S SHERIDAN BLVD / W JEWELL AVE,3125752,1673711,-105.0532033,39.6822866,4,421,harvey-park,1,0,1
+theft-of-motor-vehicle,auto-theft,900 BLK N GROVE ST,3133307,1691799,-105.0260256,39.731837,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,9500 BLK E 4TH AVE,3175172,1688389,-104.8772614,39.7217822,3,321,lowry-field,1,0,1
+theft-of-motor-vehicle,auto-theft,18600 E 63RD AVE,3205132,1720889,-104.7698289,39.8103862,5,522,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,3036 STOUT ST,3147535,1701871,-104.975232,39.7592717,2,211,five-points,1,0,1
+theft-of-motor-vehicle,auto-theft,4495 N PEORIA ST,3183372,1708807,-104.84759,39.7776746,5,511,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,4411 N PEORIA ST,3183194,1708212,-104.8482385,39.7760448,5,511,montbello,1,0,1
+theft-of-motor-vehicle,auto-theft,5100 BLK N KALISPELL ST,3195880,1712165,-104.8029985,39.7866377,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,4699 N KITTREDGE ST,3195439,1708656,-104.8046632,39.7770144,5,522,gateway-green-valley-ranch,1,0,1
+theft-of-motor-vehicle,auto-theft,10025 E GIRARD AVE,3177181,1664279,-104.8707133,39.6555572,3,323,hampden,1,0,1
+theft-of-motor-vehicle,auto-theft,2508 E 11TH AVE,3152683,1692492,-104.9571209,39.7334417,2,213,congress-park,1,0,1
+theft-of-motor-vehicle,auto-theft,E 35TH AVE / N GRAPE ST,3161751,1704264,-104.9246145,39.7656046,2,221,northeast-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,6195 N PANASONIC WAY,3201789,1720335,-104.7817434,39.8089386,5,522,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,4080 N ALBION ST,3158241,1707368,-104.9370316,39.7741859,2,221,northeast-park-hill,1,0,1
+theft-of-motor-vehicle,auto-theft,8148 PENA BLVD,3231101,1733414,-104.6769926,39.8441584,7,759,dia,1,0,1
+theft-of-motor-vehicle,auto-theft,4904 N FEDERAL BLVD,3133518,1711476,-105.0249095,39.7858506,1,111,chaffee-park,1,0,1
+theft-of-motor-vehicle,auto-theft,1200 BLK N XANTHIA ST,3172288,1693622,-104.8873883,39.7362015,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,1036 S FEDERAL BLVD,3133753,1679495,-105.0246688,39.6980535,4,412,athmar-park,1,0,1
+theft-of-motor-vehicle,auto-theft,4600 BLK W 10TH AVE,3127522,1692303,-105.046585,39.7333017,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,605 S ALTON WAY,3173352,1682050,-104.8838842,39.7044145,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,1700 BLK N GILPIN ST,3149767,1696333,-104.9674087,39.7440334,6,622,city-park-west,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK S HUMBOLDT ST,3149087,1676599,-104.970236,39.6898705,3,312,washington-park,1,0,1
+theft-of-motor-vehicle,auto-theft,3230 W 8TH AVE,3132347,1690786,-105.0294575,39.7290698,1,122,villa-park,1,0,1
+theft-of-motor-vehicle,auto-theft,2400 BLK S BROADWAY ST,3144315,1670240,-104.9873199,39.6724887,3,313,rosedale,1,0,1
+theft-of-motor-vehicle,auto-theft,1400 BLK N TAMARAC ST,3170164,1694870,-104.8949109,39.7396666,2,223,east-colfax,1,0,1
+theft-of-motor-vehicle,auto-theft,625 S HAVANA ST,3178228,1682087,-104.8665538,39.7044241,3,321,windsor,1,0,1
+theft-of-motor-vehicle,auto-theft,4800 BLK E KENTUCKY AVE,3159981,1680561,-104.9314383,39.7005663,3,322,washington-virginia-vale,1,0,1
+theft-of-motor-vehicle,auto-theft,10700 E DARTMOUTH AVE,3179637,1665333,-104.8619644,39.6584037,3,323,kennedy,1,0,1
+theft-of-motor-vehicle,auto-theft,5300 BLK S HARLAN WAY,3123149,1650643,-105.062846,39.6189933,4,423,marston,1,0,1

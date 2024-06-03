@@ -1,0 +1,55 @@
+<div class="container">
+    <div class="input-container">
+        <form [formGroup]="form" (ngSubmit)="submit()">
+            <div class="form-group">
+                <h4 for="numberOfCameras">Number of cameras</h4>
+                <input id="numberOfCameras" type="number" formControlName="numberOfCameras" class="form-control" />
+                <div
+                    *ngIf="form.controls.numberOfCameras.invalid && (form.controls.numberOfCameras.dirty || form.controls.numberOfCameras.touched)">
+                    <small class="text-danger" *ngIf="form.controls.numberOfCameras.errors.required">Number of cameras
+                        is required.</small>
+                    <small class="text-danger" *ngIf="form.controls.numberOfCameras.errors.min">Number of cameras cannot
+                        be negative.</small>
+                    <small class="text-danger" *ngIf="form.controls.numberOfCameras.errors.max">Number of cameras cannot
+                        exceed 100.</small>
+                </div>
+            </div>
+            <br />
+            <div class="form-group">
+                <h4>Crime Type</h4>
+                <div class="horizontal-group">
+                    <div *ngFor="let crimeType of crimeTypes" class="checkbox-item">
+                        <input type="checkbox" [value]="crimeType" formControlName="crimeTypes"
+                            (change)="onCheckboxChange($event, 'crimeTypes')" />
+                        {{ crimeType }}
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="form-group">
+                <h4>Zone Type</h4>
+                <div class="horizontal-group">
+                    <div *ngFor="let zoneType of zoneTypes" class="checkbox-item">
+                        <input type="checkbox" [value]="zoneType" formControlName="zoneTypes"
+                            (change)="onCheckboxChange($event, 'zoneTypes')" />
+                        {{ zoneType }}
+                    </div>
+                </div>
+            </div>
+            <br />
+            <abp-button buttonType="submit" [disabled]="form.invalid">Recommend</abp-button>
+        </form>
+    </div>
+    <div class="map-container">
+        <google-map [options]="options">
+            @for (position of markerPositions; track position) {
+                <map-marker [position]="position" [icon]="cameraIcon" />
+              }
+        </google-map>
+    </div>
+</div>
+
+<div>
+    <h4>Reasoning:</h4>
+    <p [innerHTML]="reasoning"></p>
+</div>

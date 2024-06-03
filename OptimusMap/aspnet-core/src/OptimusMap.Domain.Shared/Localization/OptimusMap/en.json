@@ -1,0 +1,10 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Menu:Maps": "Maps",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the OptimusMap application. This is a project based on our Genetec Hackathon 2024!",
+    "ProjectOverview": "🚀 Project Overview "
+  }
+}

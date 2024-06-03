@@ -1,0 +1,9 @@
+{
+ "culture": "fr",
+  "texts": {
+    "Menu:Home": "Accueil",
+    "::Menu:Maps": "Cartes",
+    "Welcome": "Bienvenue",
+    "LongWelcomeMessage": "Bienvenue dans l'application OptimusMap. Il s'agit d'un projet basé sur notre Hackathon Genetec 2024 !"
+  }
+}
