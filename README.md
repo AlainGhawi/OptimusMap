@@ -33,7 +33,8 @@ Hence, we came up with the idea of generating a layer on top of a base map to su
 
 ## 💻Architecture
 
-_Description of the architecture goes here._
+![image](https://github.com/AlainGhawi/OptimusMap/assets/25838998/c37b4c6f-f80f-4010-92eb-e0861fbfe02d)
+
 
 ## 📚Resources
 
