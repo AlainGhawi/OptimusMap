@@ -24,7 +24,7 @@ Hence, we came up with the idea of generating a layer on top of a base map to su
    Ensure the map includes street names, intersections, and major landmarks.
 
 3. Mark Key Areas for Camera Placement:
-   - Use digital mapping tools like GIS software (e.g., QGIS, ArcGIS) or simpler tools like Google My Maps.
+   - Use digital mapping tools like Google Maps marker.
 
 4. Consider Strategic Camera Placement:
    - Cover all entry and exit points at the intersection.
@@ -38,8 +38,6 @@ After cloning the solution, please note that it works with the following:
 1. Angular project: Update the following keys
    - In the chatgpt.service.ts -> YOUR_OPEN_API_KEY (you can generate a key from [OpenAI](https://platform.openai.com/api-keys))
    - In the index.html -> YOUR_GOOGLE_API_KEY (you can generate it from [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key))
-
-2. As we are using [ABP](https://abp.io/) to generate the boilerplate code, I added a connection string to MSSQL. Please download MSSQL and replace in the appsettings.json with your connection string to run the .NET solution
 
 ![image](https://github.com/AlainGhawi/OptimusMap/assets/25838998/c37b4c6f-f80f-4010-92eb-e0861fbfe02d)
 
